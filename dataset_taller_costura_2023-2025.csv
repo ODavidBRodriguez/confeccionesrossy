@@ -1,0 +1,1005 @@
+﻿Fecha,Dia_Semana,Es_Festivo,Tipo_Temporada,Pedidos_Recibidos,Pedidos_Entregados,Pedidos_Pendientes,Ingresos_Diarios_COP,Gastos_Diarios_COP,Ganancia_Diaria_COP,Arreglo_Predominante,Nivel_Complejidad
+2023-01-01,domingo,1,Alta,4,7,10,92223,64139,28084,Ruedo,Baja
+2023-01-02,lunes,0,Alta,30,30,10,362914,237212,125702,Ruedo,Baja
+2023-01-03,martes,0,Alta,49,26,33,382726,237669,145057,Cambio de Bolsillo,Alta
+2023-01-04,miércoles,0,Alta,54,38,49,613784,410864,202920,Ruedo,Alta
+2023-01-05,jueves,0,Alta,15,45,19,663066,458323,204743,Ruedo,Baja
+2023-01-06,viernes,0,Alta,48,36,31,648911,434275,214636,Cierre Melata,Alta
+2023-01-07,sábado,0,Alta,24,23,32,368093,232916,135177,Parche,Baja
+2023-01-08,domingo,0,Alta,4,7,29,80941,51633,29308,Ruedo,Baja
+2023-01-09,lunes,1,Alta,1,1,29,43667,27180,16487,Ajuste de Faja,Alta
+2023-01-10,martes,0,Alta,24,31,22,553232,357038,196194,Ruedo,Alta
+2023-01-11,miércoles,0,Alta,56,26,52,452893,300035,152858,Parche,Alta
+2023-01-12,jueves,0,Alta,14,42,24,629667,393054,236613,Ruedo,Alta
+2023-01-13,viernes,0,Alta,43,32,35,488445,340476,147969,Ajuste de Pretina,Alta
+2023-01-14,sábado,0,Alta,37,37,35,583257,357992,225265,Ruedo,Baja
+2023-01-15,domingo,0,Alta,3,1,37,24797,15814,8983,Cierre Melata,Alta
+2023-01-16,lunes,0,Alta,29,28,38,488541,319296,169245,Cierre Prenda,Alta
+2023-01-17,martes,0,Alta,20,34,24,562854,344812,218042,Ruedo,Alta
+2023-01-18,miércoles,0,Alta,52,32,44,487534,321818,165716,Parche,Baja
+2023-01-19,jueves,0,Alta,28,37,35,650946,443929,207017,Cierre Prenda,Alta
+2023-01-20,viernes,0,Alta,34,45,24,584096,350922,233174,Ruedo,Alta
+2023-01-21,sábado,0,Alta,67,33,58,422594,275158,147436,Parche,Baja
+2023-01-22,domingo,0,Alta,1,5,54,84811,53941,30870,Parche,Baja
+2023-01-23,lunes,0,Alta,11,28,37,440949,286921,154028,Cierre Prenda,Alta
+2023-01-24,martes,0,Alta,32,27,42,453976,275038,178938,Ruedo,Baja
+2023-01-25,miércoles,0,Alta,18,28,32,508901,322827,186074,Ruedo,Alta
+2023-01-26,jueves,0,Alta,48,32,48,492000,316409,175591,Ruedo,Baja
+2023-01-27,viernes,0,Alta,29,44,33,644678,399292,245386,Ruedo,Baja
+2023-01-28,sábado,0,Alta,52,37,48,483860,312272,171588,Ruedo,Baja
+2023-01-29,domingo,0,Alta,0,3,45,48434,29807,18627,Ruedo,Alta
+2023-01-30,lunes,0,Alta,15,41,19,710240,452146,258094,Cambio de Bolsillo,Alta
+2023-01-31,martes,0,Alta,30,39,10,551717,344512,207205,Ruedo,Baja
+2023-02-01,miércoles,0,Media,18,28,10,419959,242170,177789,Ajuste de Faja,Baja
+2023-02-02,jueves,0,Media,12,22,10,243306,151163,92143,Cierre Prenda,Alta
+2023-02-03,viernes,0,Media,15,25,10,321579,199278,122301,Entubado de Pantalón,Baja
+2023-02-04,sábado,0,Media,13,19,10,242816,148409,94407,Parche,Alta
+2023-02-05,domingo,0,Media,4,5,10,56481,37793,18688,Ajuste de Pretina,Media
+2023-02-06,lunes,0,Media,20,28,10,374026,216532,157494,Ruedo,Alta
+2023-02-07,martes,0,Media,11,21,10,275835,162449,113386,Ruedo,Baja
+2023-02-08,miércoles,0,Media,13,23,10,303278,197175,106103,Ruedo,Baja
+2023-02-09,jueves,0,Media,13,23,10,272294,163284,109010,Anchar/Angostar Prenda,Alta
+2023-02-10,viernes,0,Media,20,21,10,276532,162499,114033,Cierre Prenda,Alta
+2023-02-11,sábado,0,Media,21,26,10,414743,258939,155804,Ajuste de Faja,Alta
+2023-02-12,domingo,0,Media,5,3,12,37543,22705,14838,Ruedo,Baja
+2023-02-13,lunes,0,Media,15,27,10,301239,198557,102682,Ruedo,Baja
+2023-02-14,martes,0,Media,15,25,10,312556,185028,127528,Ruedo,Alta
+2023-02-15,miércoles,0,Media,14,24,10,366520,242501,124019,Parche,Alta
+2023-02-16,jueves,0,Media,14,24,10,241165,144821,96344,Cambio de Bolsillo,Alta
+2023-02-17,viernes,0,Media,18,28,10,394068,260163,133905,Entubado de Pantalón,Alta
+2023-02-18,sábado,0,Media,18,21,10,307311,184791,122520,Cierre Melata,Alta
+2023-02-19,domingo,0,Media,2,0,12,0,0,0,Ninguno,Ninguna
+2023-02-20,lunes,0,Media,17,29,10,311322,187306,124016,Entubado de Pantalón,Baja
+2023-02-21,martes,0,Media,14,24,10,282831,165285,117546,Parche,Alta
+2023-02-22,miércoles,0,Media,19,29,10,371452,243693,127759,Ruedo,Alta
+2023-02-23,jueves,0,Media,17,27,10,341179,203619,137560,Entubado de Pantalón,Alta
+2023-02-24,viernes,0,Media,16,26,10,362745,239443,123302,Ajuste de Faja,Alta
+2023-02-25,sábado,0,Media,23,33,10,462039,305695,156344,Entubado de Pantalón,Alta
+2023-02-26,domingo,0,Media,1,3,10,35896,21189,14707,Parche,Alta
+2023-02-27,lunes,0,Media,10,20,10,315502,206416,109086,Ajuste de Faja,Alta
+2023-02-28,martes,0,Media,20,29,10,429022,244882,184140,Cierre Melata,Alta
+2023-03-01,miércoles,0,Media,20,30,10,384718,226998,157720,Ruedo,Alta
+2023-03-02,jueves,0,Media,10,20,10,343673,207048,136625,Ajuste de Faja,Alta
+2023-03-03,viernes,0,Media,16,26,10,284695,170820,113875,Ruedo,Baja
+2023-03-04,sábado,0,Media,16,23,10,293908,179135,114773,Parche,Baja
+2023-03-05,domingo,0,Media,1,6,10,71954,47675,24279,Ajuste de Pretina,Alta
+2023-03-06,lunes,0,Media,10,20,10,224359,139186,85173,Ajuste de Pretina,Alta
+2023-03-07,martes,0,Media,14,24,10,319548,204109,115439,Ruedo,Alta
+2023-03-08,miércoles,0,Media,17,24,10,289602,185553,104049,Cierre Prenda,Alta
+2023-03-09,jueves,0,Media,19,22,10,266118,154499,111619,Cierre Prenda,Alta
+2023-03-10,viernes,0,Media,11,21,10,240293,159631,80662,Ruedo,Baja
+2023-03-11,sábado,0,Media,12,21,10,350473,233288,117185,Cierre Melata,Alta
+2023-03-12,domingo,0,Media,2,1,11,12377,7520,4857,Anchar/Angostar Prenda,Alta
+2023-03-13,lunes,0,Media,18,24,10,328248,203619,124629,Ruedo,Alta
+2023-03-14,martes,0,Media,19,29,10,378181,223663,154518,Cambio de Bolsillo,Alta
+2023-03-15,miércoles,0,Media,16,26,10,297779,195527,102252,Arreglo Ropa Interior,Baja
+2023-03-16,jueves,0,Media,20,30,10,372596,212975,159621,Entubado de Pantalón,Alta
+2023-03-17,viernes,0,Media,11,21,10,268531,155504,113027,Cierre Prenda,Alta
+2023-03-18,sábado,0,Media,12,22,10,339223,209726,129497,Ajuste de Faja,Alta
+2023-03-19,domingo,0,Media,1,3,10,52112,33232,18880,Ruedo,Baja
+2023-03-20,lunes,1,Media,4,6,10,55310,35454,19856,Parche,Baja
+2023-03-21,martes,0,Media,12,22,10,313714,193501,120213,Anchar/Angostar Prenda,Alta
+2023-03-22,miércoles,0,Media,19,21,10,294200,193882,100318,Ruedo,Alta
+2023-03-23,jueves,0,Media,10,20,10,193750,121944,71806,Ruedo,Baja
+2023-03-24,viernes,0,Media,16,26,10,334002,198350,135652,Arreglo Ropa Interior,Alta
+2023-03-25,sábado,0,Media,11,21,10,297466,189308,108158,Ruedo,Alta
+2023-03-26,domingo,0,Media,2,3,10,32295,20300,11995,Arreglo Ropa Interior,Alta
+2023-03-27,lunes,0,Media,15,25,10,353762,225853,127909,Ruedo,Alta
+2023-03-28,martes,0,Media,11,20,10,252904,163370,89534,Ruedo,Alta
+2023-03-29,miércoles,0,Media,16,26,10,349759,211623,138136,Cambio de Bolsillo,Baja
+2023-03-30,jueves,0,Media,12,22,10,278716,176941,101775,Cierre Prenda,Alta
+2023-03-31,viernes,0,Media,20,23,10,284144,189082,95062,Ruedo,Alta
+2023-04-01,sábado,0,Baja,6,9,10,78151,44794,33357,Entubado de Pantalón,Baja
+2023-04-02,domingo,0,Baja,5,7,10,55748,34578,21170,Entubado de Pantalón,Baja
+2023-04-03,lunes,0,Baja,3,13,10,89191,49868,39323,Cierre Prenda,Alta
+2023-04-04,martes,0,Baja,2,12,10,96273,60071,36202,Ruedo,Alta
+2023-04-05,miércoles,0,Baja,13,12,11,106841,67462,39379,Anchar/Angostar Prenda,Alta
+2023-04-06,jueves,1,Baja,3,3,11,17773,11268,6505,Cierre Prenda,Alta
+2023-04-07,viernes,1,Baja,3,3,11,35067,19088,15979,Ajuste de Faja,Alta
+2023-04-08,sábado,0,Baja,2,9,10,59650,33614,26036,Cierre Prenda,Baja
+2023-04-09,domingo,0,Baja,2,5,10,37016,21872,15144,Ruedo,Baja
+2023-04-10,lunes,0,Baja,2,12,10,120608,70031,50577,Ajuste de Faja,Alta
+2023-04-11,martes,0,Baja,5,15,10,100297,55221,45076,Ruedo,Baja
+2023-04-12,miércoles,0,Baja,6,16,10,111431,67772,43659,Ruedo,Baja
+2023-04-13,jueves,0,Baja,10,18,10,152395,86172,66223,Cierre Melata,Baja
+2023-04-14,viernes,0,Baja,6,15,10,118406,75073,43333,Cambio de Bolsillo,Alta
+2023-04-15,sábado,0,Baja,14,11,13,86275,52567,33708,Cierre Melata,Alta
+2023-04-16,domingo,0,Baja,5,0,18,0,0,0,Ninguno,Ninguna
+2023-04-17,lunes,0,Baja,9,14,13,93539,59556,33983,Arreglo Ropa Interior,Baja
+2023-04-18,martes,0,Baja,5,16,10,114324,65153,49171,Cambio de Bolsillo,Alta
+2023-04-19,miércoles,0,Baja,12,15,10,109477,67378,42099,Parche,Baja
+2023-04-20,jueves,0,Baja,13,17,10,163857,90508,73349,Ajuste de Faja,Alta
+2023-04-21,viernes,0,Baja,8,14,10,81957,47388,34569,Parche,Baja
+2023-04-22,sábado,0,Baja,16,9,17,70290,38381,31909,Anchar/Angostar Prenda,Alta
+2023-04-23,domingo,0,Baja,4,3,18,24714,14698,10016,Parche,Alta
+2023-04-24,lunes,0,Baja,13,14,17,115619,72845,42774,Cambio de Bolsillo,Alta
+2023-04-25,martes,0,Baja,15,10,22,90777,54457,36320,Entubado de Pantalón,Alta
+2023-04-26,miércoles,0,Baja,12,20,14,192519,118622,73897,Ruedo,Alta
+2023-04-27,jueves,0,Baja,15,12,17,101566,64994,36572,Parche,Alta
+2023-04-28,viernes,0,Baja,4,12,10,107116,66751,40365,Cambio de Bolsillo,Alta
+2023-04-29,sábado,0,Baja,14,13,11,107336,68159,39177,Ruedo,Baja
+2023-04-30,domingo,0,Baja,0,0,11,0,0,0,Ninguno,Ninguna
+2023-05-01,lunes,1,Baja,1,3,10,21864,13440,8424,Arreglo Ropa Interior,Medio
+2023-05-02,martes,0,Baja,11,12,10,82683,48728,33955,Cambio de Bolsillo,Alta
+2023-05-03,miércoles,0,Baja,15,17,10,139995,86938,53057,Ruedo,Baja
+2023-05-04,jueves,0,Baja,14,20,10,206105,124124,81981,Ajuste de Faja,Alta
+2023-05-05,viernes,0,Baja,14,18,10,141632,79378,62254,Ruedo,Alta
+2023-05-06,sábado,0,Baja,14,13,11,96170,61090,35080,Ruedo,Baja
+2023-05-07,domingo,0,Baja,1,4,10,24323,13164,11159,Parche,Baja
+2023-05-08,lunes,0,Baja,11,14,10,108686,66737,41949,Ajuste de Pretina,Alta
+2023-05-09,martes,0,Baja,6,14,10,87731,51491,36240,Ruedo,Baja
+2023-05-10,miércoles,0,Baja,8,16,10,136988,76173,60815,Ruedo,Baja
+2023-05-11,jueves,0,Baja,11,12,10,95713,59789,35924,Cierre Prenda,Alta
+2023-05-12,viernes,0,Baja,13,14,10,116852,68920,47932,Ajuste de Pretina,Alta
+2023-05-13,sábado,0,Baja,14,14,10,95973,57388,38585,Parche,Baja
+2023-05-14,domingo,0,Baja,2,3,10,27456,14908,12548,Arreglo Ropa Interior,Medio
+2023-05-15,lunes,0,Baja,11,18,10,165953,105968,59985,Ajuste de Faja,Baja
+2023-05-16,martes,0,Baja,10,20,10,133075,77395,55680,Cierre Prenda,Alta
+2023-05-17,miércoles,0,Baja,9,12,10,109574,62240,47334,Cierre Melata,Alta
+2023-05-18,jueves,0,Baja,2,12,10,94196,55302,38894,Arreglo Ropa Interior,Alta
+2023-05-19,viernes,0,Baja,3,10,10,89477,49255,40222,Arreglo Ropa Interior,Alta
+2023-05-20,sábado,0,Baja,2,12,10,94529,60142,34387,Cierre Melata,Alta
+2023-05-21,domingo,0,Baja,0,7,10,58835,35698,23137,Ruedo,Baja
+2023-05-22,lunes,1,Baja,1,4,10,26616,15802,10814,Ruedo,Baja
+2023-05-23,martes,0,Baja,14,12,12,73142,45138,28004,Parche,Baja
+2023-05-24,miércoles,0,Baja,4,15,10,144448,85110,59338,Parche,Alta
+2023-05-25,jueves,0,Baja,4,14,10,98545,53575,44970,Anchar/Angostar Prenda,Alta
+2023-05-26,viernes,0,Baja,9,15,10,147428,85669,61759,Ajuste de Faja,Alta
+2023-05-27,sábado,0,Baja,13,13,10,108526,59017,49509,Cierre Melata,Alta
+2023-05-28,domingo,0,Baja,4,5,10,54745,31157,23588,Cambio de Bolsillo,Alta
+2023-05-29,lunes,0,Baja,14,14,10,131655,74065,57590,Cambio de Bolsillo,Alta
+2023-05-30,martes,0,Baja,8,14,10,102264,63515,38749,Ruedo,Baja
+2023-05-31,miércoles,0,Baja,14,20,10,167441,95386,72055,Parche,Alta
+2023-06-01,jueves,0,Media,14,24,10,345900,208390,137510,Cierre Melata,Alta
+2023-06-02,viernes,0,Media,14,24,10,272420,156848,115572,Anchar/Angostar Prenda,Alta
+2023-06-03,sábado,0,Media,14,24,10,270478,178279,92199,Parche,Baja
+2023-06-04,domingo,0,Media,4,0,14,0,0,0,Ninguno,Ninguna
+2023-06-05,lunes,0,Media,11,25,10,293838,195648,98190,Parche,Baja
+2023-06-06,martes,0,Media,18,25,10,294307,187160,107147,Cierre Prenda,Alta
+2023-06-07,miércoles,0,Media,11,21,10,307343,192796,114547,Ajuste de Faja,Alta
+2023-06-08,jueves,0,Media,14,24,10,263701,158721,104980,Cierre Prenda,Alta
+2023-06-09,viernes,0,Media,11,21,10,258793,166290,92503,Cierre Prenda,Baja
+2023-06-10,sábado,0,Media,14,23,10,226624,144182,82442,Ruedo,Baja
+2023-06-11,domingo,0,Media,3,2,11,19110,12166,6944,Ruedo,Baja
+2023-06-12,lunes,1,Media,1,7,10,71250,45415,25835,Parche,Baja
+2023-06-13,martes,0,Media,13,23,10,331898,193357,138541,Arreglo Ropa Interior,Alta
+2023-06-14,miércoles,0,Media,13,23,10,252654,162570,90084,Cambio de Bolsillo,Alta
+2023-06-15,jueves,0,Media,10,20,10,262873,156665,106208,Cambio de Bolsillo,Alta
+2023-06-16,viernes,0,Media,15,25,10,282660,168049,114611,Cierre Prenda,Alta
+2023-06-17,sábado,0,Media,19,24,10,324129,194104,130025,Parche,Alta
+2023-06-18,domingo,0,Media,0,3,10,49902,30447,19455,Parche,Baja
+2023-06-19,lunes,1,Media,0,5,10,74547,49439,25108,Cierre Melata,Alta
+2023-06-20,martes,0,Media,15,21,10,283396,183347,100049,Cambio de Bolsillo,Alta
+2023-06-21,miércoles,0,Media,10,20,10,258849,166598,92251,Parche,Baja
+2023-06-22,jueves,0,Media,14,24,10,347019,207878,139141,Parche,Baja
+2023-06-23,viernes,0,Media,17,27,10,415003,243353,171650,Ajuste de Faja,Alta
+2023-06-24,sábado,0,Media,21,21,10,261694,161989,99705,Parche,Alta
+2023-06-25,domingo,0,Media,2,5,10,81159,53606,27553,Ajuste de Pretina,Media
+2023-06-26,lunes,0,Media,10,20,10,301870,197181,104689,Ruedo,Alta
+2023-06-27,martes,0,Media,20,30,10,385142,238382,146760,Anchar/Angostar Prenda,Alta
+2023-06-28,miércoles,0,Media,15,25,10,357248,211571,145677,Ruedo,Alta
+2023-06-29,jueves,0,Media,17,27,10,318807,201498,117309,Ruedo,Baja
+2023-06-30,viernes,0,Media,19,21,10,277795,183816,93979,Parche,Alta
+2023-07-01,sábado,0,Media,23,31,10,412203,275090,137113,Ruedo,Alta
+2023-07-02,domingo,0,Media,5,7,10,68061,39608,28453,Ruedo,Baja
+2023-07-03,lunes,1,Media,0,1,10,7935,4530,3405,Entubado de Pantalón,Baja
+2023-07-04,martes,0,Media,16,26,10,344570,228676,115894,Cierre Melata,Alta
+2023-07-05,miércoles,0,Media,10,20,10,285413,167883,117530,Cierre Melata,Alta
+2023-07-06,jueves,0,Media,11,21,10,230459,138682,91777,Entubado de Pantalón,Baja
+2023-07-07,viernes,0,Media,11,21,10,268123,154141,113982,Ruedo,Alta
+2023-07-08,sábado,0,Media,21,19,12,197228,116651,80577,Ruedo,Baja
+2023-07-09,domingo,0,Media,4,7,10,75409,48260,27149,Cierre Prenda,Alta
+2023-07-10,lunes,0,Media,20,30,10,485499,298325,187174,Ajuste de Faja,Alta
+2023-07-11,martes,0,Media,14,24,10,279411,172474,106937,Ruedo,Baja
+2023-07-12,miércoles,0,Media,14,24,10,304802,191542,113260,Ruedo,Baja
+2023-07-13,jueves,0,Media,13,23,10,335346,200198,135148,Cambio de Bolsillo,Alta
+2023-07-14,viernes,0,Media,10,20,10,253101,151363,101738,Anchar/Angostar Prenda,Alta
+2023-07-15,sábado,0,Media,12,22,10,291834,175168,116666,Cambio de Bolsillo,Alta
+2023-07-16,domingo,0,Media,1,7,10,97468,60905,36563,Parche,Alta
+2023-07-17,lunes,0,Media,16,26,10,293132,185043,108089,Anchar/Angostar Prenda,Baja
+2023-07-18,martes,0,Media,20,30,10,348449,222517,125932,Cierre Prenda,Alta
+2023-07-19,miércoles,0,Media,10,20,10,254249,160812,93437,Cambio de Bolsillo,Alta
+2023-07-20,jueves,1,Media,4,1,13,12232,7591,4641,Anchar/Angostar Prenda,Alta
+2023-07-21,viernes,0,Media,16,23,10,248485,162567,85918,Parche,Alta
+2023-07-22,sábado,0,Media,12,22,10,297907,172166,125741,Cambio de Bolsillo,Alta
+2023-07-23,domingo,0,Media,4,5,10,94663,56216,38447,Cierre Melata,Alta
+2023-07-24,lunes,0,Media,14,24,10,308192,182756,125436,Ajuste de Pretina,Alta
+2023-07-25,martes,0,Media,10,20,10,260807,171703,89104,Ruedo,Baja
+2023-07-26,miércoles,0,Media,16,26,10,325541,186022,139519,Ruedo,Alta
+2023-07-27,jueves,0,Media,11,21,10,324128,186330,137798,Cierre Melata,Alta
+2023-07-28,viernes,0,Media,16,26,10,336253,220402,115851,Anchar/Angostar Prenda,Alta
+2023-07-29,sábado,0,Media,11,21,10,255181,168489,86692,Parche,Baja
+2023-07-30,domingo,0,Media,2,5,10,58402,37932,20470,Arreglo Ropa Interior,Alta
+2023-07-31,lunes,0,Media,10,20,10,243113,162326,80787,Cierre Melata,Alta
+2023-08-01,martes,0,Media,17,23,10,282369,180754,101615,Cierre Melata,Alta
+2023-08-02,miércoles,0,Media,19,29,10,334609,193538,141071,Ruedo,Baja
+2023-08-03,jueves,0,Media,17,26,10,322790,211765,111025,Entubado de Pantalón,Alta
+2023-08-04,viernes,0,Media,12,22,10,242499,155750,86749,Ruedo,Baja
+2023-08-05,sábado,0,Media,12,18,10,230810,136783,94027,Cierre Prenda,Alta
+2023-08-06,domingo,0,Media,0,1,10,8878,5521,3357,Ruedo,Baja
+2023-08-07,lunes,1,Media,0,1,10,34870,20621,14249,Ajuste de Faja,Alta
+2023-08-08,martes,0,Media,18,25,10,323950,191088,132862,Ruedo,Baja
+2023-08-09,miércoles,0,Media,13,23,10,301582,198278,103304,Cierre Melata,Alta
+2023-08-10,jueves,0,Media,15,20,10,246649,162713,83936,Parche,Alta
+2023-08-11,viernes,0,Media,11,21,10,258133,157284,100849,Entubado de Pantalón,Baja
+2023-08-12,sábado,0,Media,14,19,10,239462,138019,101443,Parche,Alta
+2023-08-13,domingo,0,Media,4,5,10,46572,29054,17518,Cambio de Bolsillo,Alta
+2023-08-14,lunes,0,Media,15,25,10,280858,161906,118952,Ruedo,Baja
+2023-08-15,martes,0,Media,16,23,10,300520,175038,125482,Ruedo,Baja
+2023-08-16,miércoles,0,Media,12,20,10,215453,142654,72799,Ruedo,Baja
+2023-08-17,jueves,0,Media,10,20,10,302318,196894,105424,Cierre Prenda,Alta
+2023-08-18,viernes,0,Media,14,24,10,291207,173264,117943,Ruedo,Baja
+2023-08-19,sábado,0,Media,14,24,10,345308,222288,123020,Ruedo,Alta
+2023-08-20,domingo,0,Media,1,4,10,46875,31282,15593,Parche,Alta
+2023-08-21,lunes,1,Media,3,1,12,9603,5725,3878,Cierre Prenda,Alta
+2023-08-22,martes,0,Media,19,30,10,447927,283514,164413,Cierre Melata,Alta
+2023-08-23,miércoles,0,Media,15,23,10,281399,166335,115064,Ruedo,Alta
+2023-08-24,jueves,0,Media,17,22,10,241081,138917,102164,Ruedo,Baja
+2023-08-25,viernes,0,Media,15,25,10,306042,181382,124660,Cierre Prenda,Alta
+2023-08-26,sábado,0,Media,16,26,10,329427,211778,117649,Ruedo,Alta
+2023-08-27,domingo,0,Media,3,4,10,32240,19793,12447,Entubado de Pantalón,Baja
+2023-08-28,lunes,0,Media,15,25,10,324599,216890,107709,Cierre Prenda,Alta
+2023-08-29,martes,0,Media,20,30,10,371405,227190,144215,Anchar/Angostar Prenda,Alta
+2023-08-30,miércoles,0,Media,20,30,10,343095,208454,134641,Cambio de Bolsillo,Alta
+2023-08-31,jueves,0,Media,15,21,10,225727,129886,95841,Cambio de Bolsillo,Alta
+2023-09-01,viernes,0,Baja,4,12,10,92604,52061,40543,Arreglo Ropa Interior,Baja
+2023-09-02,sábado,0,Baja,13,14,10,138697,80311,58386,Ajuste de Faja,Baja
+2023-09-03,domingo,0,Baja,1,6,10,39980,22306,17674,Anchar/Angostar Prenda,Alta
+2023-09-04,lunes,0,Baja,4,10,10,121015,73111,47904,Ajuste de Faja,Alta
+2023-09-05,martes,0,Baja,8,17,10,135976,82962,53014,Cambio de Bolsillo,Alta
+2023-09-06,miércoles,0,Baja,8,18,10,131022,79168,51854,Cierre Prenda,Alta
+2023-09-07,jueves,0,Baja,7,17,10,159853,94183,65670,Anchar/Angostar Prenda,Alta
+2023-09-08,viernes,0,Baja,9,10,10,103368,60090,43278,Cierre Melata,Alta
+2023-09-09,sábado,0,Baja,12,11,11,87677,50007,37670,Cierre Melata,Alta
+2023-09-10,domingo,0,Baja,0,5,10,36530,23241,13289,Cierre Prenda,Alta
+2023-09-11,lunes,0,Baja,13,15,10,93949,53368,40581,Ruedo,Baja
+2023-09-12,martes,0,Baja,9,19,10,171652,106272,65380,Cierre Melata,Alta
+2023-09-13,miércoles,0,Baja,7,10,10,80094,45701,34393,Parche,Alta
+2023-09-14,jueves,0,Baja,3,13,10,115421,63437,51984,Cierre Prenda,Alta
+2023-09-15,viernes,0,Baja,9,19,10,181870,115315,66555,Ruedo,Alta
+2023-09-16,sábado,0,Baja,5,10,10,68083,38236,29847,Anchar/Angostar Prenda,Alta
+2023-09-17,domingo,0,Baja,3,2,11,21103,12454,8649,Anchar/Angostar Prenda,Alta
+2023-09-18,lunes,0,Baja,9,13,10,94877,52927,41950,Ruedo,Baja
+2023-09-19,martes,0,Baja,9,13,10,127372,81140,46232,Ruedo,Alta
+2023-09-20,miércoles,0,Baja,12,16,10,131355,71870,59485,Cambio de Bolsillo,Alta
+2023-09-21,jueves,0,Baja,12,10,12,64389,36896,27493,Parche,Baja
+2023-09-22,viernes,0,Baja,14,15,11,117481,66433,51048,Anchar/Angostar Prenda,Alta
+2023-09-23,sábado,0,Baja,8,9,10,96204,55013,41191,Ajuste de Faja,Alta
+2023-09-24,domingo,0,Baja,0,4,10,29099,17317,11782,Ruedo,Baja
+2023-09-25,lunes,0,Baja,12,19,10,167800,95388,72412,Ruedo,Alta
+2023-09-26,martes,0,Baja,9,16,10,141213,84600,56613,Cambio de Bolsillo,Alta
+2023-09-27,miércoles,0,Baja,12,11,11,87748,51844,35904,Ajuste de Pretina,Baja
+2023-09-28,jueves,0,Baja,2,13,10,103902,60292,43610,Cierre Melata,Baja
+2023-09-29,viernes,0,Baja,7,10,10,84708,50020,34688,Ruedo,Baja
+2023-09-30,sábado,0,Baja,10,12,10,68071,37084,30987,Parche,Baja
+2023-10-01,domingo,0,Baja,3,0,13,0,0,0,Ninguno,Ninguna
+2023-10-02,lunes,0,Baja,11,14,10,114797,70147,44650,Parche,Baja
+2023-10-03,martes,0,Baja,7,16,10,117522,73551,43971,Ruedo,Alta
+2023-10-04,miércoles,0,Baja,7,17,10,119028,74058,44970,Parche,Baja
+2023-10-05,jueves,0,Baja,4,14,10,113200,65484,47716,Cierre Melata,Alta
+2023-10-06,viernes,0,Baja,9,16,10,125580,69595,55985,Parche,Alta
+2023-10-07,sábado,0,Baja,2,12,10,109897,60948,48949,Cierre Melata,Alta
+2023-10-08,domingo,0,Baja,5,0,15,0,0,0,Ninguno,Ninguna
+2023-10-09,lunes,0,Baja,14,11,18,65267,36472,28795,Ruedo,Baja
+2023-10-10,martes,0,Baja,15,10,23,60948,35191,25757,Cierre Prenda,Baja
+2023-10-11,miércoles,0,Baja,9,12,20,93774,55957,37817,Cierre Melata,Baja
+2023-10-12,jueves,0,Baja,5,12,13,114249,71635,42614,Ruedo,Alta
+2023-10-13,viernes,0,Baja,15,12,16,86709,47861,38848,Parche,Baja
+2023-10-14,sábado,0,Baja,13,11,18,69295,41960,27335,Ruedo,Baja
+2023-10-15,domingo,0,Baja,2,0,20,0,0,0,Ninguno,Ninguna
+2023-10-16,lunes,1,Baja,5,6,19,55744,35456,20288,Anchar/Angostar Prenda,Alta
+2023-10-17,martes,0,Baja,5,15,10,129418,80068,49350,Parche,Alta
+2023-10-18,miércoles,0,Baja,13,19,10,159651,101254,58397,Entubado de Pantalón,Baja
+2023-10-19,jueves,0,Baja,3,13,10,120288,73447,46841,Ruedo,Baja
+2023-10-20,viernes,0,Baja,11,11,10,115814,70985,44829,Ruedo,Alta
+2023-10-21,sábado,0,Baja,9,12,10,84250,53090,31160,Cierre Prenda,Alta
+2023-10-22,domingo,0,Baja,5,0,15,0,0,0,Ninguno,Ninguna
+2023-10-23,lunes,0,Baja,11,16,10,149177,82666,66511,Cierre Prenda,Alta
+2023-10-24,martes,0,Baja,10,12,10,95099,57177,37922,Entubado de Pantalón,Alta
+2023-10-25,miércoles,0,Baja,15,19,10,155349,87310,68039,Anchar/Angostar Prenda,Alta
+2023-10-26,jueves,0,Baja,7,14,10,106044,58981,47063,Parche,Alta
+2023-10-27,viernes,0,Baja,13,19,10,132969,81926,51043,Parche,Baja
+2023-10-28,sábado,0,Baja,17,11,16,105721,63276,42445,Cierre Melata,Alta
+2023-10-29,domingo,0,Baja,4,1,19,5712,3650,2062,Ruedo,Baja
+2023-10-30,lunes,0,Baja,11,12,18,85669,52489,33180,Cierre Prenda,Alta
+2023-10-31,martes,0,Baja,3,11,10,76122,41138,34984,Ruedo,Baja
+2023-11-01,miércoles,0,Alta,48,39,19,718657,496614,222043,Ajuste de Faja,Alta
+2023-11-02,jueves,0,Alta,50,28,41,490191,298166,192025,Ruedo,Alta
+2023-11-03,viernes,0,Alta,19,37,23,543424,335107,208317,Arreglo Ropa Interior,Alta
+2023-11-04,sábado,0,Alta,65,30,58,530905,334061,196844,Cierre Melata,Alta
+2023-11-05,domingo,0,Alta,1,6,53,71551,49971,21580,Cambio de Bolsillo,Alta
+2023-11-06,lunes,1,Alta,2,1,54,44154,28680,15474,Ajuste de Faja,Alta
+2023-11-07,martes,0,Alta,25,31,48,464268,306395,157873,Ajuste de Pretina,Alta
+2023-11-08,miércoles,0,Alta,20,36,32,658624,456893,201731,Ruedo,Baja
+2023-11-09,jueves,0,Alta,53,33,52,465518,288783,176735,Parche,Baja
+2023-11-10,viernes,0,Alta,21,29,44,442742,269962,172780,Ruedo,Baja
+2023-11-11,sábado,0,Alta,34,31,47,483597,301102,182495,Anchar/Angostar Prenda,Alta
+2023-11-12,domingo,0,Alta,0,2,45,18192,12000,6192,Parche,Baja
+2023-11-13,lunes,1,Alta,1,3,43,82770,55325,27445,Ajuste de Faja,Alta
+2023-11-14,martes,0,Alta,24,42,25,902995,552419,350576,Ajuste de Faja,Alta
+2023-11-15,miércoles,0,Alta,53,28,50,407705,251596,156109,Arreglo Ropa Interior,Alta
+2023-11-16,jueves,0,Alta,11,33,28,518166,360858,157308,Ruedo,Alta
+2023-11-17,viernes,0,Alta,24,45,10,779065,485834,293231,Ruedo,Alta
+2023-11-18,sábado,0,Alta,48,32,26,450879,315003,135876,Cierre Prenda,Alta
+2023-11-19,domingo,0,Alta,4,0,30,0,0,0,Ninguno,Ninguna
+2023-11-20,lunes,0,Alta,47,27,50,389573,270210,119363,Ruedo,Alta
+2023-11-21,martes,0,Alta,18,29,39,433944,287810,146134,Ruedo,Alta
+2023-11-22,miércoles,0,Alta,49,32,56,420642,292370,128272,Entubado de Pantalón,Baja
+2023-11-23,jueves,0,Alta,29,40,45,616314,405762,210552,Ruedo,Baja
+2023-11-24,viernes,0,Alta,13,38,20,622533,418496,204037,Cierre Prenda,Alta
+2023-11-25,sábado,0,Alta,60,28,52,443529,280362,163167,Ruedo,Alta
+2023-11-26,domingo,0,Alta,0,2,50,53802,35654,18148,Ruedo,Baja
+2023-11-27,lunes,0,Alta,17,32,35,489718,324529,165189,Cierre Melata,Alta
+2023-11-28,martes,0,Alta,27,33,29,471957,294996,176961,Entubado de Pantalón,Alta
+2023-11-29,miércoles,0,Alta,45,28,46,454625,279523,175102,Arreglo Ropa Interior,Alta
+2023-11-30,jueves,0,Alta,12,44,14,675152,419597,255555,Anchar/Angostar Prenda,Alta
+2023-12-01,viernes,0,Alta,45,26,33,394755,267802,126953,Entubado de Pantalón,Baja
+2023-12-02,sábado,0,Alta,56,28,61,372584,224730,147854,Ruedo,Baja
+2023-12-03,domingo,0,Alta,1,6,56,110958,69994,40964,Cierre Melata,Alta
+2023-12-04,lunes,0,Alta,23,37,42,611339,389988,221351,Ruedo,Alta
+2023-12-05,martes,0,Alta,23,38,27,586434,392963,193471,Ruedo,Alta
+2023-12-06,miércoles,0,Alta,34,38,23,586574,378064,208510,Ruedo,Alta
+2023-12-07,jueves,0,Alta,46,40,29,595017,388270,206747,Parche,Alta
+2023-12-08,viernes,1,Alta,3,7,25,118144,72590,45554,Ajuste de Faja,Alta
+2023-12-09,sábado,0,Alta,32,36,21,561981,384175,177806,Cierre Melata,Alta
+2023-12-10,domingo,0,Alta,1,6,16,75875,45947,29928,Ruedo,Alta
+2023-12-11,lunes,0,Alta,25,35,10,594019,388763,205256,Ruedo,Alta
+2023-12-12,martes,0,Alta,28,36,10,477754,319063,158691,Ruedo,Alta
+2023-12-13,miércoles,0,Alta,55,40,25,668711,441146,227565,Cierre Melata,Alta
+2023-12-14,jueves,0,Alta,34,45,14,700876,483884,216992,Parche,Baja
+2023-12-15,viernes,0,Alta,31,28,17,431150,282734,148416,Ruedo,Baja
+2023-12-16,sábado,0,Alta,26,33,10,506201,316801,189400,Cambio de Bolsillo,Alta
+2023-12-17,domingo,0,Alta,5,0,15,0,0,0,Ninguno,Ninguna
+2023-12-18,lunes,0,Alta,54,34,35,536090,349232,186858,Cierre Melata,Alta
+2023-12-19,martes,0,Alta,48,44,39,686642,422765,263877,Parche,Alta
+2023-12-20,miércoles,0,Alta,41,29,51,488483,337845,150638,Cierre Prenda,Alta
+2023-12-21,jueves,0,Alta,26,33,44,519569,318112,201457,Cierre Melata,Alta
+2023-12-22,viernes,0,Alta,22,31,35,467887,304127,163760,Parche,Alta
+2023-12-23,sábado,0,Alta,44,34,45,456486,284664,171822,Ruedo,Baja
+2023-12-24,domingo,0,Alta,1,3,43,60977,42683,18294,Cierre Melata,Alta
+2023-12-25,lunes,1,Alta,1,1,43,10253,6392,3861,Entubado de Pantalón,Baja
+2023-12-26,martes,0,Alta,18,42,19,616240,370185,246055,Anchar/Angostar Prenda,Alta
+2023-12-27,miércoles,0,Alta,38,29,28,505829,306162,199667,Cierre Melata,Alta
+2023-12-28,jueves,0,Alta,60,39,49,561557,342609,218948,Ruedo,Baja
+2023-12-29,viernes,0,Alta,23,28,44,663555,424937,238618,Cierre Melata,Alta
+2023-12-30,sábado,0,Alta,28,27,45,441502,268722,172780,Ruedo,Baja
+2023-12-31,domingo,0,Alta,2,5,42,91806,62766,29040,Ruedo,Alta
+2024-01-01,lunes,1,Alta,0,3,39,38518,25126,13392,Anchar/Angostar Prenda,Alta
+2024-01-02,martes,0,Alta,26,36,29,629577,395780,233797,Cierre Melata,Alta
+2024-01-03,miércoles,0,Alta,55,41,43,754496,470758,283738,Cierre Melata,Alta
+2024-01-04,jueves,0,Alta,23,25,41,447424,289524,157900,Ruedo,Baja
+2024-01-05,viernes,0,Alta,21,45,17,680401,468137,212264,Cierre Melata,Alta
+2024-01-06,sábado,0,Alta,65,36,46,508963,337670,171293,Entubado de Pantalón,Alta
+2024-01-07,domingo,0,Alta,1,2,45,23839,15236,8603,Ruedo,Baja
+2024-01-08,lunes,1,Alta,2,2,45,28245,18834,9411,Arreglo Ropa Interior,Medio
+2024-01-09,martes,0,Alta,30,34,41,530117,332606,197511,Cierre Melata,Alta
+2024-01-10,miércoles,0,Alta,13,42,12,592577,397704,194873,Cierre Prenda,Alta
+2024-01-11,jueves,0,Alta,42,44,10,660677,456300,204377,Ruedo,Alta
+2024-01-12,viernes,0,Alta,58,28,40,457143,308316,148827,Entubado de Pantalón,Alta
+2024-01-13,sábado,0,Alta,56,29,67,465880,296973,168907,Cierre Prenda,Alta
+2024-01-14,domingo,0,Alta,0,5,62,85899,57779,28120,Ruedo,Baja
+2024-01-15,lunes,0,Alta,29,30,61,497845,329504,168341,Ruedo,Baja
+2024-01-16,martes,0,Alta,14,42,33,652759,401556,251203,Entubado de Pantalón,Alta
+2024-01-17,miércoles,0,Alta,59,36,56,642769,397413,245356,Ajuste de Faja,Alta
+2024-01-18,jueves,0,Alta,11,34,33,496629,342403,154226,Cierre Melata,Alta
+2024-01-19,viernes,0,Alta,48,34,47,578229,373237,204992,Cierre Prenda,Alta
+2024-01-20,sábado,0,Alta,21,31,37,510081,344891,165190,Ruedo,Alta
+2024-01-21,domingo,0,Alta,4,0,41,0,0,0,Ninguno,Ninguna
+2024-01-22,lunes,0,Alta,21,38,24,633769,420180,213589,Cierre Melata,Alta
+2024-01-23,martes,0,Alta,24,31,17,458860,297253,161607,Parche,Baja
+2024-01-24,miércoles,0,Alta,43,33,27,500046,331488,168558,Ruedo,Baja
+2024-01-25,jueves,0,Alta,27,40,14,728278,449184,279094,Ruedo,Alta
+2024-01-26,viernes,0,Alta,38,27,25,339292,215905,123387,Ruedo,Baja
+2024-01-27,sábado,0,Alta,60,22,63,342921,217978,124943,Cambio de Bolsillo,Alta
+2024-01-28,domingo,0,Alta,2,1,64,23851,15870,7981,Cierre Melata,Alta
+2024-01-29,lunes,0,Alta,16,27,53,469801,303044,166757,Anchar/Angostar Prenda,Alta
+2024-01-30,martes,0,Alta,28,45,36,590044,399344,190700,Ruedo,Alta
+2024-01-31,miércoles,0,Alta,42,38,40,639286,417178,222108,Parche,Alta
+2024-02-01,jueves,0,Media,20,23,37,255285,168148,87137,Cierre Melata,Alta
+2024-02-02,viernes,0,Media,10,27,20,278765,180817,97948,Parche,Baja
+2024-02-03,sábado,0,Media,16,18,18,253504,160400,93104,Cierre Melata,Alta
+2024-02-04,domingo,0,Media,5,1,22,6815,4361,2454,Parche,Baja
+2024-02-05,lunes,0,Media,16,26,12,367790,243165,124625,Ruedo,Alta
+2024-02-06,martes,0,Media,11,23,10,346513,202341,144172,Ajuste de Pretina,Alta
+2024-02-07,miércoles,0,Media,15,25,10,368301,232244,136057,Cierre Prenda,Alta
+2024-02-08,jueves,0,Media,18,28,10,471613,275504,196109,Cierre Melata,Alta
+2024-02-09,viernes,0,Media,10,20,10,244920,161356,83564,Ruedo,Baja
+2024-02-10,sábado,0,Media,11,18,10,204440,121744,82696,Parche,Baja
+2024-02-11,domingo,0,Media,3,1,12,8252,5239,3013,Entubado de Pantalón,Baja
+2024-02-12,lunes,0,Media,20,32,10,466455,312057,154398,Ajuste de Faja,Alta
+2024-02-13,martes,0,Media,13,23,10,290518,192820,97698,Ruedo,Alta
+2024-02-14,miércoles,0,Media,15,25,10,274558,165642,108916,Cierre Prenda,Alta
+2024-02-15,jueves,0,Media,12,22,10,243021,153154,89867,Parche,Baja
+2024-02-16,viernes,0,Media,19,29,10,327631,194060,133571,Cierre Prenda,Alta
+2024-02-17,sábado,0,Media,11,21,10,198637,132287,66350,Parche,Baja
+2024-02-18,domingo,0,Media,2,5,10,55447,34232,21215,Ajuste de Pretina,Baja
+2024-02-19,lunes,0,Media,19,29,10,335819,197374,138445,Ruedo,Baja
+2024-02-20,martes,0,Media,11,21,10,252120,146917,105203,Ruedo,Baja
+2024-02-21,miércoles,0,Media,16,26,10,320996,210231,110765,Ruedo,Baja
+2024-02-22,jueves,0,Media,14,24,10,245934,151691,94243,Cierre Prenda,Alta
+2024-02-23,viernes,0,Media,17,27,10,385118,248506,136612,Cierre Prenda,Alta
+2024-02-24,sábado,0,Media,11,21,10,302064,185782,116282,Entubado de Pantalón,Alta
+2024-02-25,domingo,0,Media,0,6,10,110327,64422,45905,Ajuste de Faja,Medio
+2024-02-26,lunes,0,Media,13,23,10,315476,205541,109935,Ruedo,Alta
+2024-02-27,martes,0,Media,13,23,10,268986,167074,101912,Cierre Prenda,Alta
+2024-02-28,miércoles,0,Media,14,24,10,292626,172414,120212,Ruedo,Baja
+2024-02-29,jueves,0,Media,16,26,10,310582,193828,116754,Cierre Prenda,Alta
+2024-03-01,viernes,0,Media,18,28,10,310055,190249,119806,Ruedo,Baja
+2024-03-02,sábado,0,Media,16,26,10,337990,208540,129450,Parche,Alta
+2024-03-03,domingo,0,Media,5,7,10,82852,49071,33781,Ruedo,Baja
+2024-03-04,lunes,0,Media,11,21,10,211003,134790,76213,Cierre Prenda,Alta
+2024-03-05,martes,0,Media,12,22,10,294364,176599,117765,Ruedo,Alta
+2024-03-06,miércoles,0,Media,19,29,10,367475,222811,144664,Ruedo,Alta
+2024-03-07,jueves,0,Media,19,29,10,323138,209104,114034,Parche,Baja
+2024-03-08,viernes,0,Media,16,26,10,295124,189538,105586,Ajuste de Pretina,Baja
+2024-03-09,sábado,0,Media,17,27,10,351797,214253,137544,Parche,Alta
+2024-03-10,domingo,0,Media,5,5,10,45265,27955,17310,Ruedo,Baja
+2024-03-11,lunes,0,Media,14,23,10,346006,229351,116655,Cierre Melata,Alta
+2024-03-12,martes,0,Media,18,25,10,324483,209368,115115,Cambio de Bolsillo,Alta
+2024-03-13,miércoles,0,Media,20,29,10,354328,232188,122140,Cierre Prenda,Alta
+2024-03-14,jueves,0,Media,19,24,10,306652,182752,123900,Ruedo,Alta
+2024-03-15,viernes,0,Media,15,25,10,288881,170315,118566,Parche,Baja
+2024-03-16,sábado,0,Media,17,27,10,355819,221168,134651,Ajuste de Pretina,Alta
+2024-03-17,domingo,0,Media,3,0,13,0,0,0,Ninguno,Ninguna
+2024-03-18,lunes,0,Media,10,20,10,240895,157165,83730,Ruedo,Baja
+2024-03-19,martes,0,Media,13,23,10,271770,177042,94728,Parche,Alta
+2024-03-20,miércoles,0,Media,20,30,10,400524,233218,167306,Cierre Prenda,Alta
+2024-03-21,jueves,0,Media,16,26,10,302802,198966,103836,Ruedo,Baja
+2024-03-22,viernes,0,Media,10,20,10,244883,148164,96719,Parche,Baja
+2024-03-23,sábado,0,Media,20,19,11,231898,134412,97486,Cambio de Bolsillo,Alta
+2024-03-24,domingo,0,Media,2,7,10,114642,69181,45461,Ruedo,Alta
+2024-03-25,lunes,1,Media,0,1,10,12483,7556,4927,Anchar/Angostar Prenda,Alta
+2024-03-26,martes,0,Media,20,30,10,369445,222045,147400,Ruedo,Baja
+2024-03-27,miércoles,0,Media,17,27,10,308559,182979,125580,Ruedo,Alta
+2024-03-28,jueves,1,Media,5,0,15,0,0,0,Ninguno,Ninguna
+2024-03-29,viernes,1,Media,4,7,12,64782,39594,25188,Cierre Prenda,Alta
+2024-03-30,sábado,0,Media,16,21,10,270846,173499,97347,Cierre Prenda,Alta
+2024-03-31,domingo,0,Media,1,5,10,48132,31252,16880,Parche,Medio
+2024-04-01,lunes,0,Baja,7,12,10,92833,51908,40925,Ruedo,Alta
+2024-04-02,martes,0,Baja,7,10,10,87722,55213,32509,Anchar/Angostar Prenda,Alta
+2024-04-03,miércoles,0,Baja,4,14,10,96238,60903,35335,Cierre Prenda,Alta
+2024-04-04,jueves,0,Baja,6,16,10,144124,86179,57945,Anchar/Angostar Prenda,Alta
+2024-04-05,viernes,0,Baja,9,16,10,103632,57625,46007,Ruedo,Baja
+2024-04-06,sábado,0,Baja,11,15,10,153333,89779,63554,Anchar/Angostar Prenda,Alta
+2024-04-07,domingo,0,Baja,4,4,10,34553,21757,12796,Arreglo Ropa Interior,Medio
+2024-04-08,lunes,0,Baja,3,13,10,100588,62710,37878,Parche,Baja
+2024-04-09,martes,0,Baja,12,13,10,98530,60473,38057,Ruedo,Alta
+2024-04-10,miércoles,0,Baja,3,13,10,128908,71791,57117,Cierre Prenda,Alta
+2024-04-11,jueves,0,Baja,4,14,10,104697,57871,46826,Anchar/Angostar Prenda,Alta
+2024-04-12,viernes,0,Baja,11,19,10,147539,90383,57156,Cierre Melata,Alta
+2024-04-13,sábado,0,Baja,6,16,10,130745,73553,57192,Ruedo,Alta
+2024-04-14,domingo,0,Baja,0,4,10,29454,18209,11245,Cierre Prenda,Baja
+2024-04-15,lunes,0,Baja,13,20,10,163627,100490,63137,Ruedo,Baja
+2024-04-16,martes,0,Baja,4,14,10,87150,47136,40014,Ruedo,Baja
+2024-04-17,miércoles,0,Baja,11,19,10,125049,77146,47903,Ruedo,Baja
+2024-04-18,jueves,0,Baja,5,10,10,102541,62349,40192,Ajuste de Faja,Alta
+2024-04-19,viernes,0,Baja,10,13,10,111648,62413,49235,Cambio de Bolsillo,Alta
+2024-04-20,sábado,0,Baja,14,14,10,139801,84868,54933,Cierre Melata,Alta
+2024-04-21,domingo,0,Baja,2,0,12,0,0,0,Ninguno,Ninguna
+2024-04-22,lunes,0,Baja,15,11,16,72361,41480,30881,Parche,Baja
+2024-04-23,martes,0,Baja,3,12,10,75059,45339,29720,Entubado de Pantalón,Baja
+2024-04-24,miércoles,0,Baja,15,16,10,164747,99204,65543,Cierre Prenda,Alta
+2024-04-25,jueves,0,Baja,15,15,10,114898,67758,47140,Ruedo,Alta
+2024-04-26,viernes,0,Baja,3,13,10,96982,59858,37124,Anchar/Angostar Prenda,Alta
+2024-04-27,sábado,0,Baja,14,14,10,128992,79646,49346,Entubado de Pantalón,Alta
+2024-04-28,domingo,0,Baja,5,4,11,34510,21827,12683,Anchar/Angostar Prenda,Alta
+2024-04-29,lunes,0,Baja,4,15,10,156510,96520,59990,Ajuste de Faja,Alta
+2024-04-30,martes,0,Baja,8,18,10,127650,75023,52627,Parche,Baja
+2024-05-01,miércoles,1,Baja,4,7,10,45062,27713,17349,Parche,Baja
+2024-05-02,jueves,0,Baja,13,17,10,140409,78272,62137,Parche,Baja
+2024-05-03,viernes,0,Baja,2,12,10,85539,52723,32816,Anchar/Angostar Prenda,Alta
+2024-05-04,sábado,0,Baja,5,12,10,103394,61640,41754,Arreglo Ropa Interior,Medio
+2024-05-05,domingo,0,Baja,0,4,10,33398,19092,14306,Ruedo,Medio
+2024-05-06,lunes,0,Baja,6,10,10,77066,48049,29017,Ruedo,Baja
+2024-05-07,martes,0,Baja,9,13,10,88091,52087,36004,Parche,Baja
+2024-05-08,miércoles,0,Baja,4,14,10,112606,66357,46249,Ruedo,Baja
+2024-05-09,jueves,0,Baja,3,10,10,96322,55022,41300,Cierre Melata,Alta
+2024-05-10,viernes,0,Baja,10,18,10,136793,75010,61783,Cierre Prenda,Alta
+2024-05-11,sábado,0,Baja,8,9,10,52875,28952,23923,Entubado de Pantalón,Baja
+2024-05-12,domingo,0,Baja,0,5,10,29261,16159,13102,Cierre Prenda,Baja
+2024-05-13,lunes,1,Baja,5,4,11,26351,15888,10463,Parche,Baja
+2024-05-14,martes,0,Baja,7,13,10,108690,66976,41714,Parche,Baja
+2024-05-15,miércoles,0,Baja,10,13,10,87075,53865,33210,Parche,Baja
+2024-05-16,jueves,0,Baja,8,14,10,92588,57496,35092,Parche,Baja
+2024-05-17,viernes,0,Baja,5,13,10,96847,57185,39662,Anchar/Angostar Prenda,Alta
+2024-05-18,sábado,0,Baja,11,14,10,118301,64351,53950,Ruedo,Alta
+2024-05-19,domingo,0,Baja,2,1,11,6645,3775,2870,Cambio de Bolsillo,Alta
+2024-05-20,lunes,0,Baja,11,11,11,96881,61284,35597,Ajuste de Pretina,Baja
+2024-05-21,martes,0,Baja,6,17,10,163527,99558,63969,Cierre Prenda,Alta
+2024-05-22,miércoles,0,Baja,6,11,10,97947,56961,40986,Parche,Baja
+2024-05-23,jueves,0,Baja,3,13,10,116430,74049,42381,Anchar/Angostar Prenda,Alta
+2024-05-24,viernes,0,Baja,14,20,10,141782,80945,60837,Cierre Prenda,Alta
+2024-05-25,sábado,0,Baja,12,15,10,111371,62277,49094,Ajuste de Pretina,Media
+2024-05-26,domingo,0,Baja,1,1,10,7625,4436,3189,Arreglo Ropa Interior,Medio
+2024-05-27,lunes,0,Baja,9,19,10,192608,121631,70977,Ajuste de Faja,Baja
+2024-05-28,martes,0,Baja,15,20,10,146692,82463,64229,Anchar/Angostar Prenda,Alta
+2024-05-29,miércoles,0,Baja,15,17,10,156338,84586,71752,Cambio de Bolsillo,Alta
+2024-05-30,jueves,0,Baja,13,14,10,110417,62074,48343,Anchar/Angostar Prenda,Alta
+2024-05-31,viernes,0,Baja,11,10,11,63009,34929,28080,Anchar/Angostar Prenda,Alta
+2024-06-01,sábado,0,Media,14,23,10,311715,205556,106159,Ruedo,Alta
+2024-06-02,domingo,0,Media,5,7,10,79112,49964,29148,Cierre Prenda,Alta
+2024-06-03,lunes,1,Media,0,3,10,35059,22660,12399,Parche,Baja
+2024-06-04,martes,0,Media,10,20,10,272730,164223,108507,Cierre Prenda,Alta
+2024-06-05,miércoles,0,Media,11,21,10,235828,149864,85964,Ruedo,Baja
+2024-06-06,jueves,0,Media,16,26,10,313976,187074,126902,Cierre Prenda,Alta
+2024-06-07,viernes,0,Media,15,25,10,325286,190899,134387,Parche,Alta
+2024-06-08,sábado,0,Media,17,27,10,363758,240471,123287,Arreglo Ropa Interior,Alta
+2024-06-09,domingo,0,Media,2,3,10,39382,25673,13709,Parche,Alta
+2024-06-10,lunes,1,Media,1,4,10,32600,19830,12770,Entubado de Pantalón,Baja
+2024-06-11,martes,0,Media,15,25,10,275528,172978,102550,Ruedo,Alta
+2024-06-12,miércoles,0,Media,11,21,10,245667,146474,99193,Ruedo,Alta
+2024-06-13,jueves,0,Media,10,20,10,261300,163458,97842,Parche,Baja
+2024-06-14,viernes,0,Media,11,21,10,303595,174178,129417,Ruedo,Baja
+2024-06-15,sábado,0,Media,11,21,10,247191,141066,106125,Ruedo,Alta
+2024-06-16,domingo,0,Media,2,3,10,50805,33232,17573,Parche,Baja
+2024-06-17,lunes,0,Media,15,25,10,349864,219737,130127,Entubado de Pantalón,Baja
+2024-06-18,martes,0,Media,17,27,10,377548,239892,137656,Parche,Baja
+2024-06-19,miércoles,0,Media,20,30,10,378229,218097,160132,Parche,Alta
+2024-06-20,jueves,0,Media,16,26,10,337768,216348,121420,Cierre Prenda,Alta
+2024-06-21,viernes,0,Media,16,26,10,317673,198094,119579,Cambio de Bolsillo,Alta
+2024-06-22,sábado,0,Media,18,25,10,319731,198182,121549,Ruedo,Baja
+2024-06-23,domingo,0,Media,4,5,10,57357,37104,20253,Entubado de Pantalón,Baja
+2024-06-24,lunes,0,Media,19,29,10,301358,179648,121710,Cierre Prenda,Baja
+2024-06-25,martes,0,Media,20,30,10,333965,205309,128656,Ruedo,Baja
+2024-06-26,miércoles,0,Media,17,27,10,330655,209717,120938,Ruedo,Baja
+2024-06-27,jueves,0,Media,17,27,10,313322,208897,104425,Cierre Melata,Alta
+2024-06-28,viernes,0,Media,10,20,10,281012,178387,102625,Ruedo,Alta
+2024-06-29,sábado,0,Media,16,26,10,275078,177429,97649,Parche,Baja
+2024-06-30,domingo,0,Media,3,5,10,45368,28985,16383,Parche,Baja
+2024-07-01,lunes,1,Media,2,4,10,45296,29298,15998,Parche,Baja
+2024-07-02,martes,0,Media,15,25,10,304204,183954,120250,Cambio de Bolsillo,Alta
+2024-07-03,miércoles,0,Media,20,30,10,314671,189739,124932,Entubado de Pantalón,Alta
+2024-07-04,jueves,0,Media,12,20,10,226111,133370,92741,Ruedo,Alta
+2024-07-05,viernes,0,Media,11,21,10,319349,211632,107717,Ruedo,Alta
+2024-07-06,sábado,0,Media,16,25,10,388740,224435,164305,Ajuste de Faja,Alta
+2024-07-07,domingo,0,Media,0,7,10,85812,49021,36791,Ruedo,Alta
+2024-07-08,lunes,0,Media,18,28,10,338308,200601,137707,Cierre Prenda,Alta
+2024-07-09,martes,0,Media,18,28,10,385850,248520,137330,Cierre Prenda,Alta
+2024-07-10,miércoles,0,Media,10,20,10,280375,160777,119598,Arreglo Ropa Interior,Alta
+2024-07-11,jueves,0,Media,10,20,10,260351,166016,94335,Ruedo,Alta
+2024-07-12,viernes,0,Media,11,21,10,277320,182140,95180,Ruedo,Alta
+2024-07-13,sábado,0,Media,21,22,10,360501,207204,153297,Ajuste de Faja,Alta
+2024-07-14,domingo,0,Media,4,5,10,65966,41046,24920,Parche,Baja
+2024-07-15,lunes,0,Media,20,21,10,298098,171289,126809,Cierre Melata,Alta
+2024-07-16,martes,0,Media,10,20,10,282359,174120,108239,Ruedo,Alta
+2024-07-17,miércoles,0,Media,13,23,10,239242,145054,94188,Arreglo Ropa Interior,Baja
+2024-07-18,jueves,0,Media,19,26,10,319163,207174,111989,Cierre Melata,Alta
+2024-07-19,viernes,0,Media,15,25,10,291044,189631,101413,Cierre Melata,Alta
+2024-07-20,sábado,1,Media,2,1,11,7772,4576,3196,Entubado de Pantalón,Baja
+2024-07-21,domingo,0,Media,4,3,12,27360,15618,11742,Ruedo,Baja
+2024-07-22,lunes,0,Media,10,22,10,319442,189217,130225,Cierre Melata,Alta
+2024-07-23,martes,0,Media,17,27,10,306914,177758,129156,Ruedo,Baja
+2024-07-24,miércoles,0,Media,10,20,10,251312,159847,91465,Cambio de Bolsillo,Alta
+2024-07-25,jueves,0,Media,17,24,10,298794,181266,117528,Ruedo,Alta
+2024-07-26,viernes,0,Media,18,25,10,283794,164117,119677,Cierre Prenda,Alta
+2024-07-27,sábado,0,Media,23,29,10,359824,228712,131112,Cierre Melata,Alta
+2024-07-28,domingo,0,Media,1,2,10,32127,20398,11729,Anchar/Angostar Prenda,Alta
+2024-07-29,lunes,0,Media,11,21,10,280877,183908,96969,Arreglo Ropa Interior,Alta
+2024-07-30,martes,0,Media,14,22,10,280595,173600,106995,Ruedo,Baja
+2024-07-31,miércoles,0,Media,13,23,10,339881,200509,139372,Ruedo,Baja
+2024-08-01,jueves,0,Media,17,26,10,326312,208338,117974,Anchar/Angostar Prenda,Alta
+2024-08-02,viernes,0,Media,11,21,10,246960,143058,103902,Ruedo,Baja
+2024-08-03,sábado,0,Media,21,31,10,364859,217801,147058,Parche,Baja
+2024-08-04,domingo,0,Media,1,0,11,0,0,0,Ninguno,Ninguna
+2024-08-05,lunes,0,Media,12,23,10,248428,142198,106230,Ruedo,Baja
+2024-08-06,martes,0,Media,12,22,10,280885,170663,110222,Parche,Alta
+2024-08-07,miércoles,1,Media,1,7,10,74813,46301,28512,Entubado de Pantalón,Baja
+2024-08-08,jueves,0,Media,17,27,10,292862,188364,104498,Parche,Baja
+2024-08-09,viernes,0,Media,20,30,10,448624,266026,182598,Cierre Melata,Alta
+2024-08-10,sábado,0,Media,23,29,10,360745,239196,121549,Ruedo,Alta
+2024-08-11,domingo,0,Media,0,2,10,15532,9455,6077,Parche,Baja
+2024-08-12,lunes,0,Media,20,30,10,465959,310028,155931,Cierre Melata,Alta
+2024-08-13,martes,0,Media,17,27,10,334915,213477,121438,Cierre Melata,Alta
+2024-08-14,miércoles,0,Media,11,21,10,267483,173116,94367,Parche,Alta
+2024-08-15,jueves,0,Media,18,28,10,297730,181434,116296,Ruedo,Alta
+2024-08-16,viernes,0,Media,12,22,10,276672,160393,116279,Anchar/Angostar Prenda,Alta
+2024-08-17,sábado,0,Media,21,19,12,221547,136561,84986,Arreglo Ropa Interior,Alta
+2024-08-18,domingo,0,Media,1,4,10,52536,32586,19950,Ajuste de Pretina,Alta
+2024-08-19,lunes,1,Media,4,5,10,70923,41461,29462,Parche,Alta
+2024-08-20,martes,0,Media,16,20,10,232989,136668,96321,Ruedo,Baja
+2024-08-21,miércoles,0,Media,12,21,10,280943,181451,99492,Ruedo,Alta
+2024-08-22,jueves,0,Media,11,21,10,313485,195712,117773,Cierre Melata,Alta
+2024-08-23,viernes,0,Media,14,24,10,340675,215002,125673,Cierre Melata,Alta
+2024-08-24,sábado,0,Media,23,32,10,398979,251977,147002,Ruedo,Alta
+2024-08-25,domingo,0,Media,2,1,11,20380,12407,7973,Cierre Melata,Alta
+2024-08-26,lunes,0,Media,18,29,10,350628,221154,129474,Anchar/Angostar Prenda,Alta
+2024-08-27,martes,0,Media,10,20,10,212799,126425,86374,Ruedo,Baja
+2024-08-28,miércoles,0,Media,15,20,10,309712,185852,123860,Ajuste de Faja,Alta
+2024-08-29,jueves,0,Media,20,30,10,384536,222267,162269,Entubado de Pantalón,Alta
+2024-08-30,viernes,0,Media,20,25,10,360155,209510,150645,Ajuste de Faja,Alta
+2024-08-31,sábado,0,Media,19,20,10,354800,224489,130311,Ajuste de Faja,Alta
+2024-09-01,domingo,0,Baja,3,3,10,27251,14898,12353,Arreglo Ropa Interior,Alta
+2024-09-02,lunes,0,Baja,12,14,10,103984,57042,46942,Cierre Prenda,Baja
+2024-09-03,martes,0,Baja,6,16,10,149002,91101,57901,Ruedo,Baja
+2024-09-04,miércoles,0,Baja,6,16,10,117264,65794,51470,Ruedo,Baja
+2024-09-05,jueves,0,Baja,6,16,10,165619,92929,72690,Ajuste de Faja,Alta
+2024-09-06,viernes,0,Baja,8,11,10,98172,60809,37363,Cierre Prenda,Alta
+2024-09-07,sábado,0,Baja,13,17,10,132747,75292,57455,Parche,Alta
+2024-09-08,domingo,0,Baja,5,2,13,28570,16899,11671,Ajuste de Faja,Alta
+2024-09-09,lunes,0,Baja,9,12,10,102666,59440,43226,Cierre Prenda,Alta
+2024-09-10,martes,0,Baja,2,12,10,101824,60805,41019,Ruedo,Alta
+2024-09-11,miércoles,0,Baja,10,19,10,144475,86413,58062,Cambio de Bolsillo,Alta
+2024-09-12,jueves,0,Baja,13,20,10,154134,90083,64051,Cierre Prenda,Alta
+2024-09-13,viernes,0,Baja,11,12,10,115991,64068,51923,Ruedo,Alta
+2024-09-14,sábado,0,Baja,9,11,10,107462,65211,42251,Ruedo,Baja
+2024-09-15,domingo,0,Baja,2,5,10,44833,26085,18748,Ruedo,Baja
+2024-09-16,lunes,0,Baja,13,14,10,115596,63553,52043,Ruedo,Baja
+2024-09-17,martes,0,Baja,11,15,10,144555,88982,55573,Anchar/Angostar Prenda,Alta
+2024-09-18,miércoles,0,Baja,7,11,10,99056,58012,41044,Cierre Prenda,Alta
+2024-09-19,jueves,0,Baja,12,12,10,100742,63253,37489,Cierre Melata,Alta
+2024-09-20,viernes,0,Baja,5,11,10,113667,62718,50949,Ruedo,Baja
+2024-09-21,sábado,0,Baja,14,9,15,69025,43552,25473,Ajuste de Pretina,Baja
+2024-09-22,domingo,0,Baja,0,6,10,58629,31914,26715,Ajuste de Pretina,Baja
+2024-09-23,lunes,0,Baja,10,17,10,132409,77626,54783,Ruedo,Alta
+2024-09-24,martes,0,Baja,15,19,10,170888,92542,78346,Cierre Melata,Alta
+2024-09-25,miércoles,0,Baja,14,10,14,67137,40479,26658,Ruedo,Baja
+2024-09-26,jueves,0,Baja,11,20,10,139481,86274,53207,Ruedo,Baja
+2024-09-27,viernes,0,Baja,13,18,10,115006,67121,47885,Ruedo,Baja
+2024-09-28,sábado,0,Baja,9,17,10,104488,65685,38803,Ruedo,Baja
+2024-09-29,domingo,0,Baja,1,0,11,0,0,0,Ninguno,Ninguna
+2024-09-30,lunes,0,Baja,4,14,10,145055,91440,53615,Ajuste de Faja,Alta
+2024-10-01,martes,0,Baja,2,12,10,118876,67793,51083,Cierre Melata,Alta
+2024-10-02,miércoles,0,Baja,9,14,10,121436,73567,47869,Cierre Prenda,Alta
+2024-10-03,jueves,0,Baja,12,18,10,155382,92280,63102,Ruedo,Alta
+2024-10-04,viernes,0,Baja,11,16,10,109243,60863,48380,Ruedo,Baja
+2024-10-05,sábado,0,Baja,9,9,10,70754,39068,31686,Cierre Prenda,Alta
+2024-10-06,domingo,0,Baja,5,3,12,24464,14018,10446,Ruedo,Alta
+2024-10-07,lunes,0,Baja,5,17,10,171334,99530,71804,Arreglo Ropa Interior,Alta
+2024-10-08,martes,0,Baja,9,14,10,92698,54504,38194,Ruedo,Baja
+2024-10-09,miércoles,0,Baja,9,18,10,154266,93255,61011,Ruedo,Baja
+2024-10-10,jueves,0,Baja,7,16,10,101627,59997,41630,Cierre Prenda,Baja
+2024-10-11,viernes,0,Baja,9,18,10,120990,68136,52854,Ruedo,Baja
+2024-10-12,sábado,0,Baja,3,12,10,95171,58629,36542,Cierre Melata,Alta
+2024-10-13,domingo,0,Baja,0,3,10,19743,12211,7532,Cambio de Bolsillo,Alta
+2024-10-14,lunes,1,Baja,5,4,11,27655,17240,10415,Ajuste de Pretina,Media
+2024-10-15,martes,0,Baja,12,19,10,144708,78601,66107,Ruedo,Alta
+2024-10-16,miércoles,0,Baja,13,17,10,189437,107505,81932,Ajuste de Faja,Alta
+2024-10-17,jueves,0,Baja,5,15,10,111280,68750,42530,Cambio de Bolsillo,Alta
+2024-10-18,viernes,0,Baja,14,10,14,100618,57083,43535,Ajuste de Pretina,Media
+2024-10-19,sábado,0,Baja,12,10,16,74311,45344,28967,Parche,Baja
+2024-10-20,domingo,0,Baja,3,1,18,5602,3098,2504,Ruedo,Baja
+2024-10-21,lunes,0,Baja,8,12,14,104199,64763,39436,Ruedo,Baja
+2024-10-22,martes,0,Baja,4,18,10,112809,61836,50973,Cierre Prenda,Alta
+2024-10-23,miércoles,0,Baja,5,12,10,111984,67622,44362,Ruedo,Alta
+2024-10-24,jueves,0,Baja,15,13,12,93910,52524,41386,Anchar/Angostar Prenda,Alta
+2024-10-25,viernes,0,Baja,4,11,10,69813,41956,27857,Ajuste de Pretina,Baja
+2024-10-26,sábado,0,Baja,16,14,12,95186,54740,40446,Ajuste de Pretina,Media
+2024-10-27,domingo,0,Baja,2,5,10,43163,26435,16728,Cierre Melata,Alta
+2024-10-28,lunes,0,Baja,10,19,10,129496,73332,56164,Ruedo,Baja
+2024-10-29,martes,0,Baja,12,12,10,106551,61336,45215,Ruedo,Baja
+2024-10-30,miércoles,0,Baja,2,10,10,63584,34968,28616,Ruedo,Alta
+2024-10-31,jueves,0,Baja,13,14,10,106017,63412,42605,Cierre Prenda,Alta
+2024-11-01,viernes,0,Alta,52,27,35,497007,336269,160738,Ajuste de Faja,Baja
+2024-11-02,sábado,0,Alta,42,37,40,533327,359314,174013,Ruedo,Alta
+2024-11-03,domingo,0,Alta,0,6,34,99864,65014,34850,Ajuste de Pretina,Alta
+2024-11-04,lunes,1,Alta,1,3,32,41708,26487,15221,Anchar/Angostar Prenda,Alta
+2024-11-05,martes,0,Alta,57,32,57,462704,293828,168876,Ruedo,Baja
+2024-11-06,miércoles,0,Alta,11,39,29,631948,439968,191980,Cierre Prenda,Alta
+2024-11-07,jueves,0,Alta,37,45,21,708326,473005,235321,Ruedo,Baja
+2024-11-08,viernes,0,Alta,38,26,33,336561,225352,111209,Parche,Baja
+2024-11-09,sábado,0,Alta,37,36,34,555381,376026,179355,Cierre Prenda,Alta
+2024-11-10,domingo,0,Alta,2,7,29,81219,53908,27311,Cierre Prenda,Alta
+2024-11-11,lunes,1,Alta,4,7,26,107619,74359,33260,Ruedo,Baja
+2024-11-12,martes,0,Alta,55,27,54,404000,278353,125647,Ruedo,Alta
+2024-11-13,miércoles,0,Alta,25,27,52,440750,307349,133401,Ruedo,Alta
+2024-11-14,jueves,0,Alta,26,40,38,542936,353741,189195,Entubado de Pantalón,Baja
+2024-11-15,viernes,0,Alta,39,40,37,650028,417307,232721,Parche,Baja
+2024-11-16,sábado,0,Alta,63,33,67,564332,385148,179184,Cierre Prenda,Alta
+2024-11-17,domingo,0,Alta,2,3,66,31893,19688,12205,Parche,Baja
+2024-11-18,lunes,0,Alta,20,40,46,655004,430888,224116,Cierre Melata,Alta
+2024-11-19,martes,0,Alta,18,32,32,498259,320208,178051,Ruedo,Alta
+2024-11-20,miércoles,0,Alta,28,43,17,767397,526807,240590,Cierre Melata,Alta
+2024-11-21,jueves,0,Alta,36,43,10,638654,391490,247164,Ruedo,Alta
+2024-11-22,viernes,0,Alta,44,33,21,529479,322971,206508,Cambio de Bolsillo,Alta
+2024-11-23,sábado,0,Alta,33,38,16,662111,457417,204694,Ruedo,Baja
+2024-11-24,domingo,0,Alta,0,6,10,96846,66784,30062,Cierre Melata,Alta
+2024-11-25,lunes,0,Alta,55,25,40,426267,262851,163416,Cierre Melata,Alta
+2024-11-26,martes,0,Alta,60,36,64,518435,328845,189590,Ruedo,Alta
+2024-11-27,miércoles,0,Alta,17,35,46,578027,376559,201468,Ruedo,Alta
+2024-11-28,jueves,0,Alta,11,38,19,540922,354281,186641,Ruedo,Baja
+2024-11-29,viernes,0,Alta,30,25,24,390394,237394,153000,Cierre Prenda,Alta
+2024-11-30,sábado,0,Alta,44,36,32,504973,330359,174614,Parche,Baja
+2024-12-01,domingo,0,Alta,0,4,28,47581,30368,17213,Ruedo,Baja
+2024-12-02,lunes,0,Alta,34,28,34,521590,350509,171081,Ajuste de Faja,Alta
+2024-12-03,martes,0,Alta,27,38,23,533165,365092,168073,Ruedo,Baja
+2024-12-04,miércoles,0,Alta,50,31,42,499242,322747,176495,Arreglo Ropa Interior,Alta
+2024-12-05,jueves,0,Alta,16,44,14,700878,473074,227804,Cierre Prenda,Alta
+2024-12-06,viernes,0,Alta,48,37,25,581767,401970,179797,Anchar/Angostar Prenda,Alta
+2024-12-07,sábado,0,Alta,66,24,67,353512,227395,126117,Arreglo Ropa Interior,Alta
+2024-12-08,domingo,1,Alta,1,2,66,39911,25680,14231,Arreglo Ropa Interior,Medio
+2024-12-09,lunes,0,Alta,14,27,53,406277,271207,135070,Ruedo,Baja
+2024-12-10,martes,0,Alta,29,33,49,529518,362555,166963,Ruedo,Alta
+2024-12-11,miércoles,0,Alta,18,41,26,689030,459371,229659,Cierre Prenda,Alta
+2024-12-12,jueves,0,Alta,28,31,23,475480,288375,187105,Entubado de Pantalón,Alta
+2024-12-13,viernes,0,Alta,52,40,35,639204,390698,248506,Entubado de Pantalón,Alta
+2024-12-14,sábado,0,Alta,35,36,34,626047,420256,205791,Cierre Prenda,Alta
+2024-12-15,domingo,0,Alta,2,0,36,0,0,0,Ninguno,Ninguna
+2024-12-16,lunes,0,Alta,44,26,54,486382,299209,187173,Parche,Alta
+2024-12-17,martes,0,Alta,19,44,29,659288,446012,213276,Ruedo,Baja
+2024-12-18,miércoles,0,Alta,45,39,35,751147,475527,275620,Ajuste de Faja,Alta
+2024-12-19,jueves,0,Alta,44,36,43,560075,362466,197609,Cierre Prenda,Alta
+2024-12-20,viernes,0,Alta,27,45,25,756332,482217,274115,Cambio de Bolsillo,Alta
+2024-12-21,sábado,0,Alta,47,29,43,461760,303209,158551,Cierre Prenda,Alta
+2024-12-22,domingo,0,Alta,0,5,38,77393,49074,28319,Anchar/Angostar Prenda,Alta
+2024-12-23,lunes,0,Alta,22,37,23,636266,413319,222947,Arreglo Ropa Interior,Alta
+2024-12-24,martes,0,Alta,54,30,47,446825,294781,152044,Entubado de Pantalón,Alta
+2024-12-25,miércoles,1,Alta,2,4,45,59986,37135,22851,Ruedo,Baja
+2024-12-26,jueves,0,Alta,23,32,36,497816,347309,150507,Ruedo,Baja
+2024-12-27,viernes,0,Alta,41,43,34,598717,389943,208774,Cambio de Bolsillo,Alta
+2024-12-28,sábado,0,Alta,64,32,66,566020,345236,220784,Cierre Melata,Alta
+2024-12-29,domingo,0,Alta,2,2,66,56916,36950,19966,Ajuste de Faja,Alta
+2024-12-30,lunes,0,Alta,16,31,51,556377,387653,168724,Cierre Melata,Alta
+2024-12-31,martes,0,Alta,21,35,37,491879,325727,166152,Parche,Baja
+2025-01-01,miércoles,1,Alta,1,7,31,142166,93023,49143,Parche,Alta
+2025-01-02,jueves,0,Alta,26,33,24,548930,372914,176016,Cierre Melata,Alta
+2025-01-03,viernes,0,Alta,24,34,14,517958,320266,197692,Ruedo,Alta
+2025-01-04,sábado,0,Alta,65,36,43,547489,344789,202700,Entubado de Pantalón,Baja
+2025-01-05,domingo,0,Alta,2,3,42,31473,18907,12566,Entubado de Pantalón,Baja
+2025-01-06,lunes,1,Alta,1,1,42,12406,8319,4087,Cambio de Bolsillo,Alta
+2025-01-07,martes,0,Alta,28,43,27,802797,544269,258528,Ajuste de Faja,Alta
+2025-01-08,miércoles,0,Alta,25,36,16,654160,427713,226447,Ajuste de Faja,Alta
+2025-01-09,jueves,0,Alta,40,45,11,659479,423979,235500,Cierre Prenda,Alta
+2025-01-10,viernes,0,Alta,53,41,23,604442,420860,183582,Cierre Prenda,Alta
+2025-01-11,sábado,0,Alta,46,31,38,547305,346254,201051,Cierre Melata,Alta
+2025-01-12,domingo,0,Alta,4,0,42,0,0,0,Ninguno,Ninguna
+2025-01-13,lunes,0,Alta,25,34,33,524164,355384,168780,Parche,Alta
+2025-01-14,martes,0,Alta,45,33,45,541122,339918,201204,Parche,Alta
+2025-01-15,miércoles,0,Alta,17,34,28,567684,366218,201466,Cierre Melata,Alta
+2025-01-16,jueves,0,Alta,57,34,51,528333,319828,208505,Ruedo,Baja
+2025-01-17,viernes,0,Alta,19,36,34,639579,393396,246183,Ruedo,Alta
+2025-01-18,sábado,0,Alta,25,39,20,633607,389664,243943,Cierre Prenda,Alta
+2025-01-19,domingo,0,Alta,0,2,18,25586,17854,7732,Anchar/Angostar Prenda,Baja
+2025-01-20,lunes,0,Alta,58,38,38,510402,324895,185507,Ruedo,Baja
+2025-01-21,martes,0,Alta,49,42,45,721172,488266,232906,Cierre Prenda,Alta
+2025-01-22,miércoles,0,Alta,24,30,39,484893,330150,154743,Cierre Prenda,Alta
+2025-01-23,jueves,0,Alta,30,26,43,380767,235789,144978,Cambio de Bolsillo,Alta
+2025-01-24,viernes,0,Alta,18,44,17,746055,517005,229050,Ajuste de Faja,Alta
+2025-01-25,sábado,0,Alta,46,24,39,380396,250607,129789,Entubado de Pantalón,Alta
+2025-01-26,domingo,0,Alta,0,6,33,70329,48591,21738,Anchar/Angostar Prenda,Baja
+2025-01-27,lunes,0,Alta,34,43,24,689515,424707,264808,Cierre Melata,Alta
+2025-01-28,martes,0,Alta,53,32,45,528712,338772,189940,Cierre Prenda,Alta
+2025-01-29,miércoles,0,Alta,21,43,23,761361,485678,275683,Entubado de Pantalón,Alta
+2025-01-30,jueves,0,Alta,46,35,34,658353,435619,222734,Ruedo,Alta
+2025-01-31,viernes,0,Alta,26,30,30,416627,289426,127201,Ruedo,Baja
+2025-02-01,sábado,0,Media,12,20,22,276201,175214,100987,Ruedo,Baja
+2025-02-02,domingo,0,Media,1,0,23,0,0,0,Ninguno,Ninguna
+2025-02-03,lunes,0,Media,17,33,10,422477,270546,151931,Ruedo,Alta
+2025-02-04,martes,0,Media,10,20,10,217765,125593,92172,Parche,Baja
+2025-02-05,miércoles,0,Media,12,22,10,333126,190073,143053,Cambio de Bolsillo,Alta
+2025-02-06,jueves,0,Media,20,23,10,277044,162951,114093,Anchar/Angostar Prenda,Alta
+2025-02-07,viernes,0,Media,13,23,10,272333,178975,93358,Anchar/Angostar Prenda,Alta
+2025-02-08,sábado,0,Media,11,21,10,288976,186724,102252,Anchar/Angostar Prenda,Alta
+2025-02-09,domingo,0,Media,4,1,13,6894,4355,2539,Parche,Baja
+2025-02-10,lunes,0,Media,13,26,10,333474,208295,125179,Cierre Melata,Alta
+2025-02-11,martes,0,Media,18,28,10,301589,177207,124382,Ruedo,Alta
+2025-02-12,miércoles,0,Media,11,21,10,247117,145743,101374,Cierre Melata,Baja
+2025-02-13,jueves,0,Media,20,30,10,323707,194223,129484,Cierre Prenda,Baja
+2025-02-14,viernes,0,Media,19,29,10,408804,269680,139124,Ajuste de Faja,Baja
+2025-02-15,sábado,0,Media,14,24,10,304871,175151,129720,Cierre Melata,Alta
+2025-02-16,domingo,0,Media,5,7,10,88058,50259,37799,Ruedo,Alta
+2025-02-17,lunes,0,Media,20,22,10,250444,166040,84404,Ruedo,Baja
+2025-02-18,martes,0,Media,12,22,10,303683,186244,117439,Cierre Prenda,Alta
+2025-02-19,miércoles,0,Media,13,23,10,274247,176860,97387,Arreglo Ropa Interior,Alta
+2025-02-20,jueves,0,Media,19,20,10,237745,150894,86851,Ruedo,Baja
+2025-02-21,viernes,0,Media,13,23,10,379393,232446,146947,Ajuste de Faja,Alta
+2025-02-22,sábado,0,Media,21,21,10,254608,162466,92142,Anchar/Angostar Prenda,Alta
+2025-02-23,domingo,0,Media,3,0,13,0,0,0,Ninguno,Ninguna
+2025-02-24,lunes,0,Media,15,28,10,420513,254305,166208,Ajuste de Faja,Alta
+2025-02-25,martes,0,Media,11,21,10,253451,150022,103429,Cierre Prenda,Alta
+2025-02-26,miércoles,0,Media,20,26,10,350975,228250,122725,Parche,Alta
+2025-02-27,jueves,0,Media,10,20,10,304233,200120,104113,Ajuste de Faja,Alta
+2025-02-28,viernes,0,Media,17,27,10,403824,234217,169607,Ajuste de Faja,Alta
+2025-03-01,sábado,0,Media,13,23,10,296885,179092,117793,Cierre Prenda,Alta
+2025-03-02,domingo,0,Media,3,6,10,65945,38735,27210,Cierre Prenda,Alta
+2025-03-03,lunes,0,Media,14,24,10,307492,189367,118125,Ruedo,Alta
+2025-03-04,martes,0,Media,13,23,10,260565,153095,107470,Arreglo Ropa Interior,Alta
+2025-03-05,miércoles,0,Media,15,25,10,348833,202574,146259,Cierre Prenda,Alta
+2025-03-06,jueves,0,Media,14,24,10,307452,184265,123187,Arreglo Ropa Interior,Baja
+2025-03-07,viernes,0,Media,11,21,10,379796,234830,144966,Ajuste de Faja,Alta
+2025-03-08,sábado,0,Media,19,29,10,375161,225081,150080,Ruedo,Alta
+2025-03-09,domingo,0,Media,4,1,13,10096,6426,3670,Cambio de Bolsillo,Alta
+2025-03-10,lunes,0,Media,19,25,10,378739,222241,156498,Cierre Prenda,Alta
+2025-03-11,martes,0,Media,12,22,10,255884,155453,100431,Parche,Alta
+2025-03-12,miércoles,0,Media,13,23,10,278304,181092,97212,Entubado de Pantalón,Baja
+2025-03-13,jueves,0,Media,13,23,10,308491,203063,105428,Cierre Melata,Alta
+2025-03-14,viernes,0,Media,14,24,10,301545,198145,103400,Ruedo,Alta
+2025-03-15,sábado,0,Media,14,24,10,284086,178719,105367,Ruedo,Alta
+2025-03-16,domingo,0,Media,0,7,10,65894,43042,22852,Ruedo,Baja
+2025-03-17,lunes,0,Media,12,22,10,317005,189969,127036,Anchar/Angostar Prenda,Alta
+2025-03-18,martes,0,Media,12,22,10,272175,177799,94376,Ruedo,Baja
+2025-03-19,miércoles,0,Media,19,29,10,344215,205526,138689,Entubado de Pantalón,Baja
+2025-03-20,jueves,0,Media,16,20,10,274056,167267,106789,Cambio de Bolsillo,Alta
+2025-03-21,viernes,0,Media,15,21,10,313101,202575,110526,Ajuste de Pretina,Alta
+2025-03-22,sábado,0,Media,23,18,15,243521,145763,97758,Arreglo Ropa Interior,Baja
+2025-03-23,domingo,0,Media,0,3,12,26177,17119,9058,Ruedo,Baja
+2025-03-24,lunes,1,Media,5,3,14,42965,25290,17675,Anchar/Angostar Prenda,Alta
+2025-03-25,martes,0,Media,12,26,10,305162,185439,119723,Ruedo,Baja
+2025-03-26,miércoles,0,Media,13,23,10,223817,139700,84117,Parche,Alta
+2025-03-27,jueves,0,Media,12,22,10,290333,183542,106791,Anchar/Angostar Prenda,Alta
+2025-03-28,viernes,0,Media,12,22,10,345175,206529,138646,Ajuste de Faja,Alta
+2025-03-29,sábado,0,Media,20,30,10,365393,232714,132679,Ruedo,Alta
+2025-03-30,domingo,0,Media,5,2,13,53314,35628,17686,Ajuste de Faja,Alta
+2025-03-31,lunes,0,Media,14,27,10,391718,262204,129514,Cierre Melata,Alta
+2025-04-01,martes,0,Baja,6,16,10,130834,77503,53331,Ruedo,Alta
+2025-04-02,miércoles,0,Baja,14,13,11,125808,75158,50650,Ajuste de Faja,Alta
+2025-04-03,jueves,0,Baja,2,13,10,78941,47253,31688,Parche,Baja
+2025-04-04,viernes,0,Baja,8,14,10,131200,81138,50062,Cierre Melata,Alta
+2025-04-05,sábado,0,Baja,8,18,10,126770,72773,53997,Ruedo,Baja
+2025-04-06,domingo,0,Baja,1,0,11,0,0,0,Ninguno,Ninguna
+2025-04-07,lunes,0,Baja,7,13,10,114236,62394,51842,Ruedo,Alta
+2025-04-08,martes,0,Baja,3,13,10,99546,63212,36334,Cierre Prenda,Alta
+2025-04-09,miércoles,0,Baja,6,16,10,164596,95068,69528,Cierre Prenda,Alta
+2025-04-10,jueves,0,Baja,8,12,10,93903,59877,34026,Entubado de Pantalón,Baja
+2025-04-11,viernes,0,Baja,12,14,10,125457,70608,54849,Cierre Melata,Alta
+2025-04-12,sábado,0,Baja,14,14,10,124024,78557,45467,Cierre Melata,Alta
+2025-04-13,domingo,0,Baja,3,2,11,11474,7318,4156,Ruedo,Baja
+2025-04-14,lunes,0,Baja,3,14,10,102121,56980,45141,Ruedo,Baja
+2025-04-15,martes,0,Baja,14,18,10,223331,141509,81822,Ajuste de Faja,Alta
+2025-04-16,miércoles,0,Baja,13,19,10,200501,110157,90344,Ajuste de Faja,Alta
+2025-04-17,jueves,1,Baja,4,1,13,6486,4109,2377,Cambio de Bolsillo,Alta
+2025-04-18,viernes,1,Baja,3,4,12,23920,15124,8796,Ajuste de Pretina,Media
+2025-04-19,sábado,0,Baja,13,18,10,147501,84784,62717,Anchar/Angostar Prenda,Alta
+2025-04-20,domingo,0,Baja,4,3,11,21514,11718,9796,Arreglo Ropa Interior,Medio
+2025-04-21,lunes,0,Baja,14,10,15,93324,59685,33639,Anchar/Angostar Prenda,Alta
+2025-04-22,martes,0,Baja,13,13,15,93665,52955,40710,Anchar/Angostar Prenda,Alta
+2025-04-23,miércoles,0,Baja,12,14,13,131644,71380,60264,Cierre Prenda,Alta
+2025-04-24,jueves,0,Baja,9,15,10,155962,98626,57336,Cierre Melata,Alta
+2025-04-25,viernes,0,Baja,8,17,10,170554,97391,73163,Arreglo Ropa Interior,Baja
+2025-04-26,sábado,0,Baja,6,11,10,105150,57911,47239,Cambio de Bolsillo,Alta
+2025-04-27,domingo,0,Baja,0,4,10,48076,28626,19450,Ajuste de Pretina,Alta
+2025-04-28,lunes,0,Baja,15,18,10,129377,76827,52550,Anchar/Angostar Prenda,Alta
+2025-04-29,martes,0,Baja,2,12,10,83380,51951,31429,Anchar/Angostar Prenda,Alta
+2025-04-30,miércoles,0,Baja,10,19,10,171467,92934,78533,Cambio de Bolsillo,Alta
+2025-05-01,jueves,1,Baja,5,4,11,30385,18193,12192,Parche,Alta
+2025-05-02,viernes,0,Baja,6,17,10,150235,81476,68759,Anchar/Angostar Prenda,Alta
+2025-05-03,sábado,0,Baja,13,14,10,86170,48285,37885,Parche,Baja
+2025-05-04,domingo,0,Baja,1,1,10,5986,3771,2215,Ruedo,Baja
+2025-05-05,lunes,0,Baja,10,15,10,130105,79578,50527,Cambio de Bolsillo,Alta
+2025-05-06,martes,0,Baja,4,14,10,113630,69668,43962,Parche,Alta
+2025-05-07,miércoles,0,Baja,14,13,11,100119,61685,38434,Anchar/Angostar Prenda,Alta
+2025-05-08,jueves,0,Baja,10,12,10,71904,44384,27520,Parche,Baja
+2025-05-09,viernes,0,Baja,8,14,10,98137,58908,39229,Ruedo,Baja
+2025-05-10,sábado,0,Baja,14,11,13,74701,44828,29873,Ruedo,Alta
+2025-05-11,domingo,0,Baja,4,1,16,13643,7409,6234,Cierre Melata,Alta
+2025-05-12,lunes,0,Baja,12,11,17,77898,45389,32509,Cierre Prenda,Baja
+2025-05-13,martes,0,Baja,10,18,10,170057,104308,65749,Ruedo,Alta
+2025-05-14,miércoles,0,Baja,12,16,10,130499,83042,47457,Cierre Prenda,Alta
+2025-05-15,jueves,0,Baja,14,11,13,90293,53443,36850,Parche,Baja
+2025-05-16,viernes,0,Baja,2,13,10,130584,80085,50499,Cierre Melata,Alta
+2025-05-17,sábado,0,Baja,9,9,10,67537,42681,24856,Anchar/Angostar Prenda,Baja
+2025-05-18,domingo,0,Baja,1,0,11,0,0,0,Ninguno,Ninguna
+2025-05-19,lunes,0,Baja,7,14,10,105034,66695,38339,Parche,Baja
+2025-05-20,martes,0,Baja,14,17,10,126224,68374,57850,Parche,Baja
+2025-05-21,miércoles,0,Baja,6,15,10,116730,63654,53076,Anchar/Angostar Prenda,Alta
+2025-05-22,jueves,0,Baja,10,20,10,127732,75033,52699,Anchar/Angostar Prenda,Baja
+2025-05-23,viernes,0,Baja,12,15,10,123598,74837,48761,Cierre Prenda,Baja
+2025-05-24,sábado,0,Baja,13,16,10,127737,80167,47570,Ruedo,Alta
+2025-05-25,domingo,0,Baja,0,5,10,53864,32690,21174,Ajuste de Faja,Baja
+2025-05-26,lunes,0,Baja,3,11,10,87098,52275,34823,Ruedo,Baja
+2025-05-27,martes,0,Baja,3,12,10,125787,74938,50849,Cierre Melata,Alta
+2025-05-28,miércoles,0,Baja,7,10,10,74528,45550,28978,Ruedo,Baja
+2025-05-29,jueves,0,Baja,10,16,10,117591,71335,46256,Parche,Baja
+2025-05-30,viernes,0,Baja,14,10,14,78414,45214,33200,Ruedo,Baja
+2025-05-31,sábado,0,Baja,11,12,13,91018,55957,35061,Cambio de Bolsillo,Alta
+2025-06-01,domingo,0,Media,3,4,12,61436,37688,23748,Cierre Prenda,Alta
+2025-06-02,lunes,1,Media,1,2,11,29606,17300,12306,Cierre Prenda,Alta
+2025-06-03,martes,0,Media,11,22,10,260504,164551,95953,Ruedo,Alta
+2025-06-04,miércoles,0,Media,16,20,10,333639,190373,143266,Ajuste de Faja,Alta
+2025-06-05,jueves,0,Media,17,20,10,234653,144028,90625,Entubado de Pantalón,Alta
+2025-06-06,viernes,0,Media,16,24,10,341575,199225,142350,Cierre Melata,Alta
+2025-06-07,sábado,0,Media,20,30,10,343265,224582,118683,Ruedo,Alta
+2025-06-08,domingo,0,Media,0,1,10,12091,8088,4003,Anchar/Angostar Prenda,Alta
+2025-06-09,lunes,0,Media,14,21,10,327456,217737,109719,Cierre Melata,Alta
+2025-06-10,martes,0,Media,12,22,10,225826,148118,77708,Cierre Prenda,Alta
+2025-06-11,miércoles,0,Media,15,25,10,278263,184356,93907,Anchar/Angostar Prenda,Alta
+2025-06-12,jueves,0,Media,17,27,10,323056,193811,129245,Cierre Prenda,Alta
+2025-06-13,viernes,0,Media,13,21,10,251673,162604,89069,Arreglo Ropa Interior,Alta
+2025-06-14,sábado,0,Media,17,18,10,267484,171674,95810,Cambio de Bolsillo,Alta
+2025-06-15,domingo,0,Media,1,2,10,18280,11749,6531,Cambio de Bolsillo,Baja
+2025-06-16,lunes,0,Media,17,27,10,321742,211058,110684,Ruedo,Baja
+2025-06-17,martes,0,Media,14,24,10,374345,229202,145143,Cierre Melata,Alta
+2025-06-18,miércoles,0,Media,16,22,10,295126,196290,98836,Arreglo Ropa Interior,Baja
+2025-06-19,jueves,0,Media,17,27,10,343599,199028,144571,Arreglo Ropa Interior,Alta
+2025-06-20,viernes,0,Media,12,22,10,293732,189020,104712,Ruedo,Alta
+2025-06-21,sábado,0,Media,13,18,10,195154,124468,70686,Ruedo,Baja
+2025-06-22,domingo,0,Media,3,3,10,59023,34888,24135,Ajuste de Faja,Alta
+2025-06-23,lunes,1,Media,0,2,10,33002,18875,14127,Anchar/Angostar Prenda,Alta
+2025-06-24,martes,0,Media,18,28,10,337280,221695,115585,Ajuste de Pretina,Alta
+2025-06-25,miércoles,0,Media,15,25,10,261911,172658,89253,Cambio de Bolsillo,Alta
+2025-06-26,jueves,0,Media,17,26,10,285164,169831,115333,Ruedo,Baja
+2025-06-27,viernes,0,Media,13,23,10,237704,139783,97921,Parche,Baja
+2025-06-28,sábado,0,Media,20,26,10,298586,193303,105283,Ruedo,Alta
+2025-06-29,domingo,0,Media,0,7,10,125327,77070,48257,Ajuste de Faja,Alta
+2025-06-30,lunes,1,Media,3,1,12,7316,4668,2648,Parche,Baja
+2025-07-01,martes,0,Media,14,23,10,269421,159503,109918,Arreglo Ropa Interior,Alta
+2025-07-02,miércoles,0,Media,15,24,10,326639,205225,121414,Arreglo Ropa Interior,Baja
+2025-07-03,jueves,0,Media,13,23,10,272742,180566,92176,Parche,Baja
+2025-07-04,viernes,0,Media,14,24,10,363767,218807,144960,Ajuste de Faja,Alta
+2025-07-05,sábado,0,Media,11,21,10,247854,156944,90910,Arreglo Ropa Interior,Alta
+2025-07-06,domingo,0,Media,3,5,10,42531,25355,17176,Parche,Baja
+2025-07-07,lunes,0,Media,16,26,10,358310,234328,123982,Ruedo,Alta
+2025-07-08,martes,0,Media,20,30,10,388520,237037,151483,Cierre Prenda,Alta
+2025-07-09,miércoles,0,Media,15,25,10,423583,277486,146097,Ajuste de Faja,Alta
+2025-07-10,jueves,0,Media,14,21,10,278705,171483,107222,Cambio de Bolsillo,Alta
+2025-07-11,viernes,0,Media,14,24,10,334496,219037,115459,Cierre Melata,Alta
+2025-07-12,sábado,0,Media,20,29,10,494096,314028,180068,Ruedo,Alta
+2025-07-13,domingo,0,Media,3,6,10,59150,35038,24112,Arreglo Ropa Interior,Medio
+2025-07-14,lunes,0,Media,13,23,10,304990,183294,121696,Ruedo,Alta
+2025-07-15,martes,0,Media,19,26,10,364891,221576,143315,Ajuste de Pretina,Alta
+2025-07-16,miércoles,0,Media,17,27,10,491421,303569,187852,Cierre Melata,Alta
+2025-07-17,jueves,0,Media,15,23,10,264243,164210,100033,Arreglo Ropa Interior,Alta
+2025-07-18,viernes,0,Media,12,22,10,296412,190329,106083,Ruedo,Alta
+2025-07-19,sábado,0,Media,19,21,10,262940,171752,91188,Ruedo,Alta
+2025-07-20,domingo,1,Media,4,0,14,0,0,0,Ninguno,Ninguna
+2025-07-21,lunes,0,Media,18,32,10,330802,206495,124307,Ruedo,Baja
+2025-07-22,martes,0,Media,15,21,10,252950,149111,103839,Parche,Alta
+2025-07-23,miércoles,0,Media,19,26,10,278417,159448,118969,Parche,Baja
+2025-07-24,jueves,0,Media,16,26,10,279861,176989,102872,Anchar/Angostar Prenda,Alta
+2025-07-25,viernes,0,Media,15,21,10,263106,150332,112774,Cierre Melata,Alta
+2025-07-26,sábado,0,Media,11,21,10,294252,172227,122025,Cambio de Bolsillo,Alta
+2025-07-27,domingo,0,Media,3,1,12,8083,5283,2800,Entubado de Pantalón,Baja
+2025-07-28,lunes,0,Media,12,23,10,275382,179854,95528,Arreglo Ropa Interior,Alta
+2025-07-29,martes,0,Media,16,26,10,325112,198620,126492,Ruedo,Baja
+2025-07-30,miércoles,0,Media,10,20,10,260690,161616,99074,Ruedo,Baja
+2025-07-31,jueves,0,Media,10,20,10,242724,149766,92958,Ruedo,Baja
+2025-08-01,viernes,0,Media,11,21,10,267148,165572,101576,Cierre Melata,Alta
+2025-08-02,sábado,0,Media,13,23,10,286181,173900,112281,Parche,Alta
+2025-08-03,domingo,0,Media,0,7,10,73208,42839,30369,Parche,Alta
+2025-08-04,lunes,0,Media,12,22,10,287222,169037,118185,Cambio de Bolsillo,Alta
+2025-08-05,martes,0,Media,15,25,10,365974,243177,122797,Anchar/Angostar Prenda,Alta
+2025-08-06,miércoles,0,Media,19,29,10,345196,219231,125965,Ruedo,Baja
+2025-08-07,jueves,1,Media,5,1,14,9392,5394,3998,Ruedo,Baja
+2025-08-08,viernes,0,Media,14,23,10,322573,214992,107581,Arreglo Ropa Interior,Alta
+2025-08-09,sábado,0,Media,19,29,10,417019,266819,150200,Cierre Prenda,Alta
+2025-08-10,domingo,0,Media,3,7,10,102922,65980,36942,Ruedo,Baja
+2025-08-11,lunes,0,Media,14,23,10,290026,172754,117272,Ajuste de Pretina,Baja
+2025-08-12,martes,0,Media,17,20,10,299525,194539,104986,Entubado de Pantalón,Alta
+2025-08-13,miércoles,0,Media,14,24,10,242826,159625,83201,Parche,Baja
+2025-08-14,jueves,0,Media,12,22,10,316194,197129,119065,Cambio de Bolsillo,Alta
+2025-08-15,viernes,0,Media,14,24,10,265456,175231,90225,Cierre Prenda,Alta
+2025-08-16,sábado,0,Media,12,18,10,233039,152170,80869,Anchar/Angostar Prenda,Alta
+2025-08-17,domingo,0,Media,5,7,10,61011,39746,21265,Cierre Prenda,Baja
+2025-08-18,lunes,1,Media,1,3,10,25321,16387,8934,Parche,Baja
+2025-08-19,martes,0,Media,18,28,10,342380,221193,121187,Parche,Alta
+2025-08-20,miércoles,0,Media,15,24,10,365800,232627,133173,Cierre Prenda,Alta
+2025-08-21,jueves,0,Media,14,24,10,270899,172902,97997,Ruedo,Alta
+2025-08-22,viernes,0,Media,11,21,10,267112,156622,110490,Ruedo,Alta
+2025-08-23,sábado,0,Media,19,26,10,327553,218234,109319,Parche,Baja
+2025-08-24,domingo,0,Media,1,3,10,73422,43978,29444,Cierre Melata,Alta
+2025-08-25,lunes,0,Media,19,22,10,308618,177637,130981,Arreglo Ropa Interior,Alta
+2025-08-26,martes,0,Media,15,25,10,370556,211481,159075,Cierre Melata,Alta
+2025-08-27,miércoles,0,Media,18,20,10,212313,135366,76947,Parche,Baja
+2025-08-28,jueves,0,Media,10,20,10,293970,179001,114969,Ajuste de Faja,Alta
+2025-08-29,viernes,0,Media,14,24,10,298237,193247,104990,Cierre Prenda,Alta
+2025-08-30,sábado,0,Media,13,23,10,303325,176132,127193,Cierre Melata,Alta
+2025-08-31,domingo,0,Media,2,2,10,19941,12075,7866,Cambio de Bolsillo,Media
+2025-09-01,lunes,0,Baja,15,19,10,135233,76757,58476,Cierre Prenda,Alta
+2025-09-02,martes,0,Baja,14,18,10,166150,93884,72266,Ajuste de Faja,Alta
+2025-09-03,miércoles,0,Baja,12,17,10,122827,69734,53093,Parche,Baja
+2025-09-04,jueves,0,Baja,10,18,10,166401,94625,71776,Ruedo,Alta
+2025-09-05,viernes,0,Baja,8,13,10,92376,56577,35799,Entubado de Pantalón,Baja
+2025-09-06,sábado,0,Baja,5,14,10,124423,79223,45200,Cierre Melata,Alta
+2025-09-07,domingo,0,Baja,0,7,10,58724,34214,24510,Cierre Prenda,Alta
+2025-09-08,lunes,0,Baja,9,17,10,146021,87466,58555,Cierre Melata,Baja
+2025-09-09,martes,0,Baja,8,18,10,178238,112788,65450,Ruedo,Alta
+2025-09-10,miércoles,0,Baja,4,10,10,90727,54093,36634,Cierre Melata,Alta
+2025-09-11,jueves,0,Baja,13,15,10,130923,81272,49651,Cierre Melata,Alta
+2025-09-12,viernes,0,Baja,10,14,10,133839,74365,59474,Ajuste de Faja,Alta
+2025-09-13,sábado,0,Baja,3,13,10,92716,58563,34153,Parche,Baja
+2025-09-14,domingo,0,Baja,1,2,10,18369,10239,8130,Entubado de Pantalón,Baja
+2025-09-15,lunes,0,Baja,11,16,10,114007,70620,43387,Parche,Baja
+2025-09-16,martes,0,Baja,7,17,10,139354,81820,57534,Parche,Baja
+2025-09-17,miércoles,0,Baja,14,14,10,116055,66677,49378,Entubado de Pantalón,Baja
+2025-09-18,jueves,0,Baja,5,15,10,100446,54335,46111,Parche,Baja
+2025-09-19,viernes,0,Baja,14,16,10,163134,92438,70696,Cierre Melata,Alta
+2025-09-20,sábado,0,Baja,5,15,10,103773,61280,42493,Cierre Prenda,Alta
+2025-09-21,domingo,0,Baja,0,7,10,55555,33215,22340,Anchar/Angostar Prenda,Alta
+2025-09-22,lunes,0,Baja,3,13,10,92116,57425,34691,Anchar/Angostar Prenda,Alta
+2025-09-23,martes,0,Baja,4,12,10,95267,58146,37121,Cierre Prenda,Alta
+2025-09-24,miércoles,0,Baja,4,14,10,127572,78367,49205,Ajuste de Faja,Alta
+2025-09-25,jueves,0,Baja,9,10,10,94479,53813,40666,Cierre Melata,Alta
+2025-09-26,viernes,0,Baja,11,13,10,122463,68402,54061,Cierre Melata,Alta
+2025-09-27,sábado,0,Baja,13,18,10,192150,107052,85098,Ajuste de Faja,Alta
+2025-09-28,domingo,0,Baja,1,1,10,6206,3789,2417,Cambio de Bolsillo,Alta
+2025-09-29,lunes,0,Baja,13,16,10,155988,95224,60764,Ajuste de Faja,Alta
+2025-09-30,martes,0,Baja,15,13,12,114749,62681,52068,Parche,Baja
